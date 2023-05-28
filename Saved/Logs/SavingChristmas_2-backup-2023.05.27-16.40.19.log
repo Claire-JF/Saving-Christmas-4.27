@@ -1,0 +1,1615 @@
+﻿Log file open, 05/28/23 00:33:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SavingChristmas
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.168630
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i7-12700F, GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  /Game/MainMenu -game -PIEVIACONSOLE -Multiprocess "GameUserSettingsINI=D:/4881/Saving Christmas 4.27/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -ResX=1280 -ResY=720
+LogInit: Base Directory: D:/Epic Games/UE WorkSpace/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Engine.ini]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Engine.ini]
+[2023.05.27-16.33.53:305][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Engine.ini]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Engine.ini]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.05.27-16.33.53:305][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Engine.ini]
+[2023.05.27-16.33.53:305][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Engine.ini]
+[2023.05.27-16.33.53:312][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:312][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.27-16.33.53:312][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.27-16.33.53:312][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:312][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.27-16.33.53:312][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:312][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.27-16.33.53:312][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.27-16.33.53:312][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.27-16.33.53:312][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.27-16.33.53:312][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.27-16.33.53:312][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.27-16.33.53:312][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.27-16.33.53:312][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.27-16.33.53:312][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.27-16.33.53:312][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.05.27-16.33.53:313][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.27-16.33.53:313][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.05.27-16.33.53:313][  0]LogHAL: Display: Platform has ~ 32 GB [34212798464 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.27-16.33.53:313][  0]LogInit: Going up to parent DeviceProfile []
+[2023.05.27-16.33.53:313][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.27-16.33.53:313][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.05.27-16.33.53:314][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Engine.ini]
+[2023.05.27-16.33.53:314][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/4881/Saving Christmas 4.27/Saved/Config/Windows/Editor.ini]
+[2023.05.27-16.33.53:314][  0]LogInit: Computer: DESKTOP-QNOONET
+[2023.05.27-16.33.53:314][  0]LogInit: User: 1
+[2023.05.27-16.33.53:314][  0]LogInit: CPU Page size=4096, Cores=12
+[2023.05.27-16.33.53:314][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.27-16.33.53:314][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.05.27-16.33.53:314][  0]LogMemory: Platform Memory Stats for Windows
+[2023.05.27-16.33.53:314][  0]LogMemory: Process Physical Memory: 149.38 MB used, 149.38 MB peak
+[2023.05.27-16.33.53:314][  0]LogMemory: Process Virtual Memory: 126.46 MB used, 126.46 MB peak
+[2023.05.27-16.33.53:314][  0]LogMemory: Physical Memory: 10383.16 MB used,  22244.71 MB free, 32627.87 MB total
+[2023.05.27-16.33.53:314][  0]LogMemory: Virtual Memory: 134195208.00 MB used,  22517.41 MB free, 134217728.00 MB total
+[2023.05.27-16.33.53:318][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.27-16.33.53:341][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.05.27-16.33.53:342][  0]LogInit: Using OS detected language (zh-CN).
+[2023.05.27-16.33.53:342][  0]LogInit: Using OS detected locale (zh-CN).
+[2023.05.27-16.33.53:343][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2023.05.27-16.33.53:418][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2023.05.27-16.33.53:418][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2023.05.27-16.33.53:418][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2023.05.27-16.33.53:418][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2023.05.27-16.33.53:418][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2023.05.27-16.33.53:418][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2023.05.27-16.33.53:418][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2023.05.27-16.33.53:418][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2023.05.27-16.33.53:418][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2023.05.27-16.33.53:418][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2023.05.27-16.33.53:418][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2023.05.27-16.33.53:451][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.27-16.33.53:464][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.27-16.33.53:464][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.27-16.33.53:478][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.05.27-16.33.53:483][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.27-16.33.53:483][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.05.27-16.33.53:483][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.05.27-16.33.53:483][  0]LogD3D11RHI: D3D11 adapters:
+[2023.05.27-16.33.53:551][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_0)
+[2023.05.27-16.33.53:551][  0]LogD3D11RHI:       8050/0/16313 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.05.27-16.33.53:553][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.05.27-16.33.53:553][  0]LogD3D11RHI:       0/0/16313 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.05.27-16.33.53:553][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.05.27-16.33.53:553][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Ti
+[2023.05.27-16.33.53:553][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.05.27-16.33.53:553][  0]LogD3D11RHI:     DeviceId    : 2489
+[2023.05.27-16.33.53:553][  0]LogD3D11RHI:     SubSysId    : 153c10de
+[2023.05.27-16.33.53:553][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.05.27-16.33.53:553][  0]LogD3D11RHI:     DedicatedVideoMemory : 8441036800 bytes
+[2023.05.27-16.33.53:553][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.27-16.33.53:553][  0]LogD3D11RHI:     SharedSystemMemory : 17106399232 bytes
+[2023.05.27-16.33.53:553][  0]LogD3D11RHI:     AdapterLuid : 0 60134
+[2023.05.27-16.33.53:557][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.05.27-16.33.53:557][  0]LogD3D11RHI:     GPU DeviceId: 0x2489 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.27-16.33.53:557][  0]LogWindows: EnumDisplayDevices:
+[2023.05.27-16.33.53:557][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1)
+[2023.05.27-16.33.53:557][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2023.05.27-16.33.53:557][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2023.05.27-16.33.53:557][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2023.05.27-16.33.53:557][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.05.27-16.33.53:557][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2023.05.27-16.33.53:557][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.05.27-16.33.53:557][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2023.05.27-16.33.53:557][  0]LogRHI: Texture pool is 5635 MB (70% of 8050 MB)
+[2023.05.27-16.33.53:557][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.05.27-16.33.53:557][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Ti
+[2023.05.27-16.33.53:557][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.05.27-16.33.53:557][  0]LogD3D11RHI:     DeviceId    : 2489
+[2023.05.27-16.33.53:558][  0]LogD3D11RHI:     SubSysId    : 153c10de
+[2023.05.27-16.33.53:558][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.05.27-16.33.53:558][  0]LogD3D11RHI:     DedicatedVideoMemory : 8441036800 bytes
+[2023.05.27-16.33.53:558][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.27-16.33.53:558][  0]LogD3D11RHI:     SharedSystemMemory : 17106399232 bytes
+[2023.05.27-16.33.53:558][  0]LogD3D11RHI:     AdapterLuid : 0 60134
+[2023.05.27-16.33.53:585][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.05.27-16.33.53:585][  0]LogD3D11RHI: Async texture creation enabled
+[2023.05.27-16.33.53:585][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.05.27-16.33.53:602][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.05.27-16.33.53:616][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.05.27-16.33.53:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.05.27-16.33.53:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.05.27-16.33.53:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.05.27-16.33.53:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.05.27-16.33.53:812][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.05.27-16.33.53:816][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.27-16.33.53:834][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.05.27-16.33.53:854][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.05.27-16.33.53:854][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../4881/Saving Christmas 4.27/Intermediate/Shaders/WorkingDirectory/6472/).
+[2023.05.27-16.33.53:854][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1/AppData/Local/Temp/UnrealShaderWorkingDir/215A04F94A874C4C89A36FA10B3794CD/'.
+[2023.05.27-16.33.53:854][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.27-16.33.53:854][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.05.27-16.33.53:854][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.05.27-16.33.54:352][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.05.27-16.33.54:395][  0]LogDerivedDataCache: Loaded boot cache 0.04s 94MB C:/Users/1/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.05.27-16.33.54:395][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/1/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.05.27-16.33.54:395][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../4881/Saving Christmas 4.27/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.27-16.33.54:395][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.05.27-16.33.54:395][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../4881/Saving Christmas 4.27/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.27-16.33.54:396][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.05.27-16.33.54:407][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.05.27-16.33.54:407][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.27-16.33.54:407][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.05.27-16.33.54:410][  0]LogDerivedDataCache: Speed tests for C:/Users/1/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2023.05.27-16.33.54:410][  0]LogDerivedDataCache: Display: Performance to C:/Users/1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1583.26MBs, RandomWriteSpeed=339.12MBs. Assigned SpeedClass 'Local'
+[2023.05.27-16.33.54:411][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.27-16.33.54:411][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.27-16.33.54:411][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.05.27-16.33.54:432][  0]LogSlate: Using FreeType 2.10.0
+[2023.05.27-16.33.54:432][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.27-16.33.54:477][  0]LogInit: Using OS detected language (zh-CN).
+[2023.05.27-16.33.54:477][  0]LogInit: Using OS detected locale (zh-CN).
+[2023.05.27-16.33.54:477][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2023.05.27-16.33.54:477][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2023.05.27-16.33.54:477][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.05.27-16.33.54:477][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.05.27-16.33.54:479][  0]LogAssetRegistry: FAssetRegistry took 0.0011 seconds to start up
+[2023.05.27-16.33.54:573][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2023.05.27-16.33.54:573][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.000425 seconds
+[2023.05.27-16.33.54:606][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.27-16.33.54:606][  0]LogInit: Active device profile: [00000247B3D4DB00][00000247ACAE7040 49] Windows
+[2023.05.27-16.33.54:606][  0]LogInit: Profiles: [00000247B3D4DB00][00000247ACAE7040 49] Windows, [00000247B3D0F200][00000247ACAEF1C0 49] WindowsNoEditor, [00000247B3D4F900][00000247ACAEB300 49] WindowsServer, [00000247B3D0CA00][00000247ACAF3440 49] WindowsClient, [00000247B3D4CB00][00000247B20E1580 49] IOS, [00000247B3D0EA00][00000247B20E56C0 49] iPadAir, [00000247B3D4F300][00000247B20ED840 49] iPadAir2, [00000247B3CD1300][00000247B20F5B00 49] IPadPro, [00000247B3CD1400][00000247B20F1B40 49] iPadAir3, [00000247B3D0DB00][00000247B20F8140 49] iPadAir4, [00000247B3CD3A00][00000247B20FC2C0 49] iPadMini2, [00000247B3D0E500][00000247B2100440 49] iPadMini3, [00000247B3CD3F00][00000247B21045C0 49] iPadMini4, [00000247B3D0C900][00000247B2108740 49] iPadMini5, [00000247B3CE1000][00000247B2110A00 49] iPhone6, [00000247B3CE1100][00000247B210CA40 49] iPodTouch6, [00000247B3D4F400][00000247B2118D00 49] iPhone7, [00000247B3D4C500][00000247B2114D40 49] iPodTouch7, [00000247B3CE0100][00000247B211CEC0 49] iPhone5S, [00000247B3CD0700][00000247B2121040 49] iPhone6Plus, [00000247B3CE2F00][00000247B21251C0 49] iPhone6S, [00000247B3CD1A00][00000247B2129340 49] iPhone6SPlus, [00000247B3CE0A00][00000247B23E74C0 49] iPhone7Plus, [00000247B3CD3E00][00000247B20E9600 49] iPhoneSE, [00000247B3D4C200][00000247B23EB740 49] iPhone8, [00000247B3CD0600][00000247B23EF880 49] iPhone8Plus, [00000247B3D4E300][00000247B23F7A00 49] iPhoneX, [00000247B3CD3C00][00000247B23FBB80 49] iPhoneXS, [00000247B3D4FE00][00000247B23FE180 49] iPhoneXSMax, [00000247B3CD3400][00000247B2402300 49] iPhoneXR, [00000247B3D4EE00][00000247B2406480 49] iPhone11, [00000247B3CD2500][00000247B240A600 49] iPhone11Pro, [00000247B3D4EC00][00000247B240E780 49] iPhone11ProMax, [00000247B3CD3B00][00000247B2412900 49] iPhoneSE2, [00000247B3D4CE00][00000247B2416A80 49] iPhone12Mini, [00000247B3CD2600][00000247B241AC00 49] iPhone12, [00000247B3D4D800][00000247B241ED80 49] iPhone12Pro, [00000247B3CD1B00][00000247B2422F00 49] iPhone12ProMax, [00000247B3D4D000][00000247B2427080 49] iPadPro105, [00000247B3CD1E00][00000247B242B200 49] iPadPro129, [00000247B3D4C400][00000247B242F380 49] iPadPro97, [00000247B3CD0F00][00000247B2433500 49] iPadPro2_129, [00000247B3D4CF00][00000247B2437680 49] iPad5, [00000247B3CD3800][00000247B23F37C0 49] iPad6, [00000247B3D4FF00][00000247B243B900 49] iPad7, [00000247B3CD2F00][00000247B243FA40 49] iPad8, [00000247B3D4D900][00000247B2447BC0 49] iPadPro11, [00000247B3CD0100][00000247B244A1C0 49] iPadPro2_11, [00000247B3D4FD00][00000247B244E340 49] iPadPro3_129, [00000247B3CD0D00][00000247B24524C0 49] iPadPro4_129, [00000247B3D4C300][00000247B2456640 49] AppleTV, [00000247B3CD2A00][00000247B245A7C0 49] AppleTV4K, [00000247B3D4ED00][00000247B245E940 49] TVOS, [00000247B3CD2300][00000247B2462AC0 49] Mac, [00000247B3D4DD00][00000247B2466C40 49] MacClient, [00000247B3CD2C00][00000247B246ADC0 49] MacNoEditor, [00000247B3D4C100][00000247B246EF40 49] MacServer, [00000247B3CD1200][00000247B24730C0 49] Linux, [00000247B3D4CD00][00000247B2477240 49] LinuxAArch64, [00000247B3CD2800][00000247B247B3C0 49] LinuxNoEditor, [00000247B3D4DC00][00000247B247F540 49] LinuxAArch64NoEditor, [00000247B3CD1000][00000247B24836C0 49] LinuxClient, [00000247B3D4E700][00000247B2487840 49] LinuxAArch64Client, [00000247B3CD2900][00000247B2443980 49] LinuxServer, [00000247B3D4F700][00000247B248BAC0 49] LinuxAArch64Server, [00000247B3CD1700][00000247B248FC00 49] Android, [00000247B3D4E100][00000247B24921C0 49] Android_Low, [00000247B3CD0500][00000247B249A340 49] Android_Mid, [00000247B3D4F600][00000247B466E4C0 49] Android_High, [00000247B3CD0C00][00000247B4672640 49] Android_Default, [00000247B3D4C600][00000247B46767C0 49] Android_Adreno4xx, [00000247B3DA8400][00000247B467A940 49] Android_Adreno5xx_Low, [00000247B3D4D500][00000247B467EAC0 49] Android_Adreno5xx, [00000247B3D0D800][00000247B4682C40 49] Android_Adreno6xx, [00000247B3CE2E00][00000247B4686DC0 49] Android_Adreno6xx_Vulkan, [00000247B3D0D400][00000247B468AF40 49] Android_Mali_T6xx, [00000247B3CE3100][00000247B468F0C0 49] Android_Mali_T7xx, [00000247B3D0EF00][00000247B4693240 49] Android_Mali_T8xx, [00000247B3CE1500][00000247B46973C0 49] Android_Mali_G71, [00000247B3D0E200][00000247B469B540 49] Android_Mali_G72, [00000247B3CE1900][00000247B469F6C0 49] Android_Mali_G72_Vulkan, [00000247B3D0EB00][00000247B46A3840 49] Android_Mali_G76, [00000247B3CE2900][00000247B46A79C0 49] Android_Mali_G76_Vulkan, [00000247B3D0D200][00000247B2497B00 49] Android_Mali_G77, [00000247B3CE1700][00000247B46AA0C0 49] Android_Mali_G77_Vulkan, [00000247B3D0C500][00000247B46AE200 49] Android_Mali_G78, [00000247B3CE3400][00000247B46B2340 49] Android_Mali_G78_Vulkan, [00000247B3D0F700][00000247B46BA4C0 49] Android_Mali_G710, [00000247B3CE2100][00000247B46BE640 49] Android_Mali_G710_Vulkan, [00000247B3D0E600][00000247B46C27C0 49] Android_Vulkan_SM5, [00000247B3CE2400][00000247B46C6940 49] Android_PowerVR_G6xxx, [00000247B3D0F100][00000247B46CAAC0 49] Android_PowerVR_GT7xxx, [00000247B3CE0700][00000247B46CEC40 49] Android_PowerVR_GE8xxx, [00000247B3D0D500][00000247B46D2DC0 49] Android_PowerVR_GM9xxx, [00000247B3CE0C00][00000247B46D6F40 49] Android_PowerVR_GM9xxx_Vulkan, [00000247B3D0CE00][00000247B46DB0C0 49] Android_TegraK1, [00000247B3CE0500][00000247B46DF240 49] Android_Unknown_Vulkan, [00000247B3D0E900][00000247B46E33C0 49] Lumin, [00000247B3CE3E00][00000247B46E7540 49] Lumin_Desktop, [00000247B3D0F300][00000247B46EB6C0 49] HoloLens, 
+[2023.05.27-16.33.54:630][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.27-16.33.54:630][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.27-16.33.54:630][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.27-16.33.54:630][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.27-16.33.54:630][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.27-16.33.54:694][  0]LogNetVersion: SavingChristmas 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3638445008)
+[2023.05.27-16.33.54:845][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.05.27-16.33.54:877][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.05.27-16.33.54:939][  0]LogMoviePlayer: Initializing movie player
+[2023.05.27-16.33.55:022][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E8E75E3D4C2ACDD5CC45FD83725C5785 | Instance: 4AD0B5A74515DE8A83AFFDA0DED843B4 (DESKTOP-QNOONET-6472).
+[2023.05.27-16.33.55:034][  0]LogCollectionManager: Loaded 0 collections in 0.000394 seconds
+[2023.05.27-16.33.55:035][  0]LogFileCache: Scanning file cache for directory 'D:/4881/Saving Christmas 4.27/Saved/Collections/' took 0.00s
+[2023.05.27-16.33.55:035][  0]LogFileCache: Scanning file cache for directory 'D:/4881/Saving Christmas 4.27/Content/Developers/1/Collections/' took 0.00s
+[2023.05.27-16.33.55:035][  0]LogFileCache: Scanning file cache for directory 'D:/4881/Saving Christmas 4.27/Content/Collections/' took 0.00s
+[2023.05.27-16.33.55:035][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2023.05.27-16.33.55:047][  0]LogPython: Using Python 3.7.7
+[2023.05.27-16.33.55:313][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.27-16.33.55:315][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.27-16.33.55:398][  0]SourceControl: Source control is disabled
+[2023.05.27-16.33.55:398][  0]SourceControl: Source control is disabled
+[2023.05.27-16.33.55:399][  0]SourceControl: Source control is disabled
+[2023.05.27-16.33.55:438][  0]LogUProjectInfo: Found projects:
+[2023.05.27-16.33.55:447][  0]LogOpenImageDenoise: OIDN starting up
+[2023.05.27-16.33.55:467][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.27-16.33.55:479][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.27-16.33.55:479][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.27-16.33.55:520][  0]LogOcInput: OculusInput pre-init called
+[2023.05.27-16.33.55:526][  0]LogUObjectArray: 22121 objects as part of root set at end of initial load.
+[2023.05.27-16.33.55:526][  0]LogUObjectAllocator: 5975632 out of 0 bytes used by permanent object pool.
+[2023.05.27-16.33.55:526][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.27-16.33.55:557][  0]LogEngine: Initializing Engine...
+[2023.05.27-16.33.55:558][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.05.27-16.33.55:558][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.27-16.33.55:558][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.05.27-16.33.55:559][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.05.27-16.33.55:614][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.27-16.33.55:614][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.05.27-16.33.55:617][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.05.27-16.33.55:617][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.05.27-16.33.55:617][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.05.27-16.33.55:617][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.05.27-16.33.55:617][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.27-16.33.55:617][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.27-16.33.55:617][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.27-16.33.55:617][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.27-16.33.55:617][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.27-16.33.55:617][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.27-16.33.55:617][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.27-16.33.55:617][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.27-16.33.55:618][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.27-16.33.55:618][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.27-16.33.55:618][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.27-16.33.55:618][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.27-16.33.55:625][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.27-16.33.55:625][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.05.27-16.33.55:634][  0]LogAudioMixer: Display: Using Audio Device 耳机 (Razer Kraken BT Kitty Edition)
+[2023.05.27-16.33.55:637][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.27-16.33.55:637][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.27-16.33.55:637][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.27-16.33.55:638][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.27-16.33.55:638][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.27-16.33.55:638][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.27-16.33.55:638][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.27-16.33.55:638][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.27-16.33.55:638][  0]LogInit: FAudioDevice initialized.
+[2023.05.27-16.33.55:639][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.27-16.33.55:639][  0]LogInit: Texture streaming: Enabled
+[2023.05.27-16.33.55:675][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.27-16.33.55:675][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-16.33.55:677][  0]LogInit: Display: Game Engine Initialized.
+[2023.05.27-16.33.55:677][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2023.05.27-16.33.55:748][  0]LogInit: Display: Starting Game.
+[2023.05.27-16.33.55:748][  0]LogNet: Browse: /Game/MainMenu?Name=Player
+[2023.05.27-16.33.55:748][  0]LogLoad: LoadMap: /Game/MainMenu?Name=Player
+[2023.05.27-16.33.55:748][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2023.05.27-16.33.55:749][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.33.55:749][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.33.55:760][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-16.33.55:761][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.05.27-16.33.55:806][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.05.27-16.33.55:810][  0]LogAIModule: Creating AISystem for world MainMenu
+[2023.05.27-16.33.55:811][  0]LogLoad: Game class is 'MenuGameMode_C'
+[2023.05.27-16.33.55:812][  0]LogWorld: Bringing World /Game/MainMenu.MainMenu up for play (max tick rate 0) at 2023.05.28-00.33.55
+[2023.05.27-16.33.55:812][  0]LogWorld: Bringing up level for play took: 0.000685
+[2023.05.27-16.33.55:812][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.27-16.33.55:813][  0]LogLoad: Took 0.064511 seconds to LoadMap(/Game/MainMenu)
+[2023.05.27-16.33.55:846][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.27-16.33.55:867][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2023.05.27-16.33.55:867][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.05.27-16.33.55:867][  0]LogLoad: (Engine Initialization) Total time: 3.09 seconds
+[2023.05.27-16.33.55:867][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.27-16.33.55:869][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.27-16.33.55:871][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.33.55:935][  0]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:1).
+[2023.05.27-16.33.55:957][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:2).
+[2023.05.27-16.33.55:977][  1]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.27-16.34.08:622][687]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.27-16.34.08:622][687]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.27-16.34.09:930][578]LogPackageName: SearchForPackageOnDisk took   0.025s to resolve level1.umap.
+[2023.05.27-16.34.09:930][578]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.27-16.34.09:930][578]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.27-16.34.09:955][578]LogPackageName: SearchForPackageOnDisk took   0.024s to resolve level1.umap.
+[2023.05.27-16.34.09:955][578]LogNet: Browse: /Game/Level1
+[2023.05.27-16.34.09:955][578]LogLoad: LoadMap: /Game/Level1
+[2023.05.27-16.34.09:955][578]LogWorld: BeginTearingDown for /Game/MainMenu
+[2023.05.27-16.34.09:955][578]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.34.09:955][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.34.09:979][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-16.34.09:982][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.05.27-16.34.10:192][578]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Frosty/frosty_attack_Anim.frosty_attack_Anim
+[2023.05.27-16.34.10:192][578]LogStaticMesh: Building static mesh icicle...
+[2023.05.27-16.34.10:194][578]LogStaticMesh: Built static mesh [0.00s] /Game/SavingChristmasFiles/Meshes/icicle.icicle
+[2023.05.27-16.34.10:194][578]LogStaticMesh: Building static mesh GiantSnowBall...
+[2023.05.27-16.34.10:195][578]LogStaticMesh: Built static mesh [0.00s] /Game/SavingChristmasFiles/Meshes/GiantSnowBall.GiantSnowBall
+[2023.05.27-16.34.10:195][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave SnowballThud_sfx...
+[2023.05.27-16.34.10:195][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/SnowballThud_sfx.SnowballThud_sfx will be modified from 40 to 40.
+[2023.05.27-16.34.10:209][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 73548 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/SnowballThud_sfx.SnowballThud_sfx.
+[2023.05.27-16.34.10:210][578]LogTexture: Display: Building textures: frosty_t (OODLE_AutoDXT, 256X256)
+[2023.05.27-16.34.10:213][578]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3CB0DF22FFF9C050A7EA8B375EAE1BAEF45E5D1B), compiling. 
+[2023.05.27-16.34.10:241][578]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.27-16.34.10:242][578]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 32
+[2023.05.27-16.34.10:242][578]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 29
+[2023.05.27-16.34.10:242][578]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 26
+[2023.05.27-16.34.10:242][578]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 23
+[2023.05.27-16.34.10:242][578]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 20
+[2023.05.27-16.34.10:242][578]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 17
+[2023.05.27-16.34.10:242][578]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 14
+[2023.05.27-16.34.10:242][578]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 11
+[2023.05.27-16.34.10:242][578]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 8
+[2023.05.27-16.34.10:242][578]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 5
+[2023.05.27-16.34.10:242][578]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 2
+[2023.05.27-16.34.10:242][578]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.10:242][578]LogStaticMesh: Building static mesh snowmound...
+[2023.05.27-16.34.10:242][578]LogStaticMesh: Built static mesh [0.00s] /Game/SavingChristmasFiles/Meshes/snowmound.snowmound
+[2023.05.27-16.34.10:243][578]LogMaterial: Display: Missing cached shadermap for BossMat in PCD3D_SM5, Default, SM5 (DDC key hash: 934D8D6936C271A9F9370D8F1A56A877F208A0B8), compiling. 
+[2023.05.27-16.34.10:255][578]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.27-16.34.10:257][578]LogTexture: Display: Building textures: candycane_t (OODLE_AutoDXT, 256X256)
+[2023.05.27-16.34.10:266][578]LogTexture: Display: Building textures: Gradient_Pallet (OODLE_AutoDXT, 512X512)
+[2023.05.27-16.34.10:274][578]LogTexture: Display: Building textures: Goblin_Albedo (OODLE_AutoDXT, 128X128)
+[2023.05.27-16.34.10:275][578]LogTexture: Display: Building textures: PresentTextures (OODLE_AutoDXT, 256X256)
+[2023.05.27-16.34.10:277][578]LogTexture: Display: Building textures: present_specular (OODLE_AutoDXT, 256X256)
+[2023.05.27-16.34.10:279][578]LogTexture: Display: Building textures: present_roughness (OODLE_AutoDXT, 256X256)
+[2023.05.27-16.34.10:281][578]LogTexture: Display: Building textures: present_albedo (OODLE_AutoDXT, 256X256)
+[2023.05.27-16.34.10:285][578]LogSkeletalMesh: Building Skeletal Mesh frosty_idle...
+[2023.05.27-16.34.10:288][578]LogSkeletalMesh: Section 0: Material=0, 360 triangles
+[2023.05.27-16.34.10:289][578]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/SavingChristmasFiles/Characters/Frosty/frosty_idle.frosty_idle
+[2023.05.27-16.34.10:289][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave FrostyAttack...
+[2023.05.27-16.34.10:290][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/FrostyAttack.FrostyAttack will be modified from 40 to 40.
+[2023.05.27-16.34.10:379][578]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 32
+[2023.05.27-16.34.10:380][578]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 29
+[2023.05.27-16.34.10:380][578]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 26
+[2023.05.27-16.34.10:380][578]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 23
+[2023.05.27-16.34.10:380][578]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 20
+[2023.05.27-16.34.10:380][578]LogShaderCompilers: Display: Started 15 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.10:380][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1159168 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/FrostyAttack.FrostyAttack.
+[2023.05.27-16.34.10:381][578]LogStaticMesh: Building static mesh Grass_01...
+[2023.05.27-16.34.10:388][578]LogStaticMesh: Built static mesh [0.01s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Others/Grass_01.Grass_01
+[2023.05.27-16.34.10:388][578]LogStaticMesh: Building static mesh Grass_04...
+[2023.05.27-16.34.10:393][578]LogStaticMesh: Built static mesh [0.00s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Others/Grass_04.Grass_04
+[2023.05.27-16.34.10:394][578]LogStaticMesh: Building static mesh Grass_02...
+[2023.05.27-16.34.10:399][578]LogStaticMesh: Built static mesh [0.01s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Others/Grass_02.Grass_02
+[2023.05.27-16.34.10:400][578]LogStaticMesh: Building static mesh Grass_03...
+[2023.05.27-16.34.10:404][578]LogStaticMesh: Built static mesh [0.00s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Others/Grass_03.Grass_03
+[2023.05.27-16.34.10:405][578]LogStaticMesh: Building static mesh Grass_05...
+[2023.05.27-16.34.10:410][578]LogStaticMesh: Built static mesh [0.01s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Others/Grass_05.Grass_05
+[2023.05.27-16.34.10:411][578]LogStaticMesh: Building static mesh Grass_06...
+[2023.05.27-16.34.10:415][578]LogStaticMesh: Built static mesh [0.01s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Others/Grass_06.Grass_06
+[2023.05.27-16.34.10:425][578]LogStaticMesh: Building static mesh CandyCane...
+[2023.05.27-16.34.10:429][578]LogStaticMesh: Built static mesh [0.00s] /Game/SavingChristmasFiles/Meshes/CandyCane.CandyCane
+[2023.05.27-16.34.10:430][578]LogStaticMesh: Building static mesh Cliff_01...
+[2023.05.27-16.34.10:437][578]LogStaticMesh: Built static mesh [0.01s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Cliffs/Cliff_01.Cliff_01
+[2023.05.27-16.34.10:439][578]LogStaticMesh: Building static mesh Cliff_02...
+[2023.05.27-16.34.10:444][578]LogStaticMesh: Built static mesh [0.01s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Cliffs/Cliff_02.Cliff_02
+[2023.05.27-16.34.10:445][578]LogStaticMesh: Building static mesh Cliff_03...
+[2023.05.27-16.34.10:454][578]LogStaticMesh: Built static mesh [0.01s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Cliffs/Cliff_03.Cliff_03
+[2023.05.27-16.34.10:456][578]LogStaticMesh: Building static mesh Cliff_04...
+[2023.05.27-16.34.10:464][578]LogStaticMesh: Built static mesh [0.01s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Cliffs/Cliff_04.Cliff_04
+[2023.05.27-16.34.10:465][578]LogStaticMesh: Building static mesh Cliff_05...
+[2023.05.27-16.34.10:471][578]LogStaticMesh: Built static mesh [0.01s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Cliffs/Cliff_05.Cliff_05
+[2023.05.27-16.34.10:473][578]LogStaticMesh: Building static mesh Dead_Tree_02...
+[2023.05.27-16.34.10:483][578]LogStaticMesh: Built static mesh [0.01s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Trees/Dead_Tree_02.Dead_Tree_02
+[2023.05.27-16.34.10:484][578]LogStaticMesh: Building static mesh Heart...
+[2023.05.27-16.34.10:488][578]LogStaticMesh: Built static mesh [0.00s] /Game/SavingChristmasFiles/Meshes/Heart.Heart
+[2023.05.27-16.34.10:490][578]LogStaticMesh: Building static mesh Pine_Tree_01...
+[2023.05.27-16.34.10:498][578]LogStaticMesh: Built static mesh [0.01s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Trees/Pine_Tree_01.Pine_Tree_01
+[2023.05.27-16.34.10:499][578]LogStaticMesh: Building static mesh Rock_08...
+[2023.05.27-16.34.10:531][578]LogStaticMesh: Built static mesh [0.03s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Rocks/Rock_08.Rock_08
+[2023.05.27-16.34.10:534][578]LogStaticMesh: Building static mesh Rock_09...
+[2023.05.27-16.34.10:551][578]LogStaticMesh: Built static mesh [0.02s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Rocks/Rock_09.Rock_09
+[2023.05.27-16.34.10:553][578]LogStaticMesh: Building static mesh Rock_10...
+[2023.05.27-16.34.10:567][578]LogStaticMesh: Built static mesh [0.01s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Rocks/Rock_10.Rock_10
+[2023.05.27-16.34.10:569][578]LogStaticMesh: Building static mesh Trunk_03...
+[2023.05.27-16.34.10:577][578]LogStaticMesh: Built static mesh [0.01s] /Game/SavingChristmasFiles/Meshes/LowPolyNaturePack/Trees/Trunk_03.Trunk_03
+[2023.05.27-16.34.10:579][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave CandyCanePickup_sfx...
+[2023.05.27-16.34.10:579][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/CandyCanePickup_sfx.CandyCanePickup_sfx will be modified from 40 to 40.
+[2023.05.27-16.34.10:603][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 176524 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/CandyCanePickup_sfx.CandyCanePickup_sfx.
+[2023.05.27-16.34.10:605][578]LogTexture: Display: Building textures: Palette (OODLE_AutoDXT, 192X96)
+[2023.05.27-16.34.10:614][578]LogTexture: Display: Building textures: _1426-805 (BGRA8, 626X417)
+[2023.05.27-16.34.10:624][578]LogTexture: Display: Building textures: 68960348 (BGRA8, 450X310)
+[2023.05.27-16.34.10:630][578]LogMaterial: Display: Missing cached shadermap for Palette_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7EF41A3E88406CCD19222C96DD319E2BCF39EF79), compiling. 
+[2023.05.27-16.34.10:652][578]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.27-16.34.10:654][578]LogTexture: Display: Building textures: chimney_t (OODLE_AutoDXT, 256X256)
+[2023.05.27-16.34.10:659][578]LogMaterial: Display: Missing cached shadermap for chimeny_top in PCD3D_SM5, Default, SM5 (DDC key hash: 4860EBAD68047756BC236480B9C3B8157EC6BA2A), compiling. 
+[2023.05.27-16.34.10:677][578]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.27-16.34.10:678][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave PresentDrop_sfx...
+[2023.05.27-16.34.10:678][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/PresentDrop_sfx.PresentDrop_sfx will be modified from 40 to 40.
+[2023.05.27-16.34.10:698][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 98072 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/PresentDrop_sfx.PresentDrop_sfx.
+[2023.05.27-16.34.10:699][578]LogTexture: Display: Building textures: present_metallic (OODLE_AutoDXT, 256X256)
+[2023.05.27-16.34.10:703][578]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: BAE9D47457235BA90165E4D8330CB3F4FB5D3621), compiling. 
+[2023.05.27-16.34.10:758][578]LogShaderCompilers: Display: Submitted 78 shader compile jobs with 'Low' priority
+[2023.05.27-16.34.10:760][578]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 017340C0B0B571F9ACB1ABE43F24440F04FE2478), compiling. 
+[2023.05.27-16.34.10:801][578]LogShaderCompilers: Display: Submitted 78 shader compile jobs with 'Low' priority
+[2023.05.27-16.34.10:802][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave GoblinHit_sfx...
+[2023.05.27-16.34.10:803][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/GoblinHit_sfx.GoblinHit_sfx will be modified from 40 to 40.
+[2023.05.27-16.34.10:846][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 112640 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/GoblinHit_sfx.GoblinHit_sfx.
+[2023.05.27-16.34.10:846][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave GoblinChase_sfx...
+[2023.05.27-16.34.10:847][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/GoblinChase_sfx.GoblinChase_sfx will be modified from 40 to 40.
+[2023.05.27-16.34.10:895][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 292864 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/GoblinChase_sfx.GoblinChase_sfx.
+[2023.05.27-16.34.10:896][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave GoblinGiveUp_sfx...
+[2023.05.27-16.34.10:896][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/GoblinGiveUp_sfx.GoblinGiveUp_sfx will be modified from 40 to 40.
+[2023.05.27-16.34.11:002][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 630784 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/GoblinGiveUp_sfx.GoblinGiveUp_sfx.
+[2023.05.27-16.34.11:005][578]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Goblin/Goblin_Death_Anim.Goblin_Death_Anim
+[2023.05.27-16.34.11:005][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave FrostyDeath_sfx...
+[2023.05.27-16.34.11:007][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/FrostyDeath_sfx.FrostyDeath_sfx will be modified from 40 to 40.
+[2023.05.27-16.34.11:131][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1449304 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/FrostyDeath_sfx.FrostyDeath_sfx.
+[2023.05.27-16.34.11:133][578]LogMaterial: Display: Missing cached shadermap for Goblin_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A2C36283FD28AAF1BA762A87D76453CD0AC25D06), compiling. 
+[2023.05.27-16.34.11:151][578]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.27-16.34.11:152][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Footstep_sfx...
+[2023.05.27-16.34.11:152][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/Footstep_sfx.Footstep_sfx will be modified from 40 to 40.
+[2023.05.27-16.34.11:169][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 67896 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/Footstep_sfx.Footstep_sfx.
+[2023.05.27-16.34.11:172][578]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: 303BF52AD86BB3FD150FAF45B76934199FCDF9E8), compiling. 
+[2023.05.27-16.34.11:191][578]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 4999F8422751990EC988C4CB1C1B3BBF9B4EC2E6), compiling. 
+[2023.05.27-16.34.11:208][578]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.27-16.34.11:216][578]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 301
+[2023.05.27-16.34.11:216][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.11:216][578]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 322877C57A9391AB9925F45855B17DFEEBE86AC4), compiling. 
+[2023.05.27-16.34.11:287][578]LogShaderCompilers: Display: Submitted 47 shader compile jobs with 'Low' priority
+[2023.05.27-16.34.11:290][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave JingleBellsTheme...
+[2023.05.27-16.34.11:324][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/Music/JingleBellsTheme.JingleBellsTheme will be modified from 40 to 40.
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 338
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 328
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 318
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 308
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 298
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 288
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 278
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 268
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 258
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 248
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 238
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 228
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 218
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 208
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 198
+[2023.05.27-16.34.13:377][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.13:377][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 25058304 while cooking SoundWave /Game/SavingChristmasFiles/Music/JingleBellsTheme.JingleBellsTheme.
+[2023.05.27-16.34.13:381][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave FrostWaltzTheme...
+[2023.05.27-16.34.13:426][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/Music/FrostWaltzTheme.FrostWaltzTheme will be modified from 40 to 40.
+[2023.05.27-16.34.15:322][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 23897088 while cooking SoundWave /Game/SavingChristmasFiles/Music/FrostWaltzTheme.FrostWaltzTheme.
+[2023.05.27-16.34.15:327][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave HeartPickup_sfx...
+[2023.05.27-16.34.15:327][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/HeartPickup_sfx.HeartPickup_sfx will be modified from 40 to 40.
+[2023.05.27-16.34.15:354][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 22016 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/HeartPickup_sfx.HeartPickup_sfx.
+[2023.05.27-16.34.15:355][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave PresentPickup_sfx...
+[2023.05.27-16.34.15:357][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/PresentPickup_sfx.PresentPickup_sfx will be modified from 40 to 40.
+[2023.05.27-16.34.15:384][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 156800 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/PresentPickup_sfx.PresentPickup_sfx.
+[2023.05.27-16.34.15:386][578]LogSkeletalMesh: Building Skeletal Mesh present_walking...
+[2023.05.27-16.34.15:393][578]LogSkeletalMesh: Section 0: Material=0, 332 triangles
+[2023.05.27-16.34.15:393][578]LogSkeletalMesh: Section 1: Material=1, 128 triangles
+[2023.05.27-16.34.15:394][578]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/SavingChristmasFiles/Characters/Present/present_walking.present_walking
+[2023.05.27-16.34.15:396][578]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Present/present_walking_Anim.present_walking_Anim
+[2023.05.27-16.34.15:396][578]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Goblin/Goblin_Run_Anim.Goblin_Run_Anim
+[2023.05.27-16.34.15:396][578]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Goblin/Goblin_Idle_Anim.Goblin_Idle_Anim
+[2023.05.27-16.34.15:396][578]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Goblin/Goblin_Walk_Anim.Goblin_Walk_Anim
+[2023.05.27-16.34.15:396][578]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Santa/Throw_Object.Throw_Object
+[2023.05.27-16.34.15:396][578]LogSkeletalMesh: Building Skeletal Mesh Chimney...
+[2023.05.27-16.34.15:397][578]LogSkeletalMesh: Section 0: Material=0, 68 triangles
+[2023.05.27-16.34.15:397][578]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/SavingChristmasFiles/Meshes/Chimney.Chimney
+[2023.05.27-16.34.15:398][578]LogMaterial: Display: Missing cached shadermap for CandyCane_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 91B9CC473079FB6B40E0F0404AC307B98CE1BA3F), compiling. 
+[2023.05.27-16.34.15:407][578]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2023.05.27-16.34.15:408][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Throw_sfx...
+[2023.05.27-16.34.15:408][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/Throw_sfx.Throw_sfx will be modified from 40 to 40.
+[2023.05.27-16.34.15:415][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 38912 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/Throw_sfx.Throw_sfx.
+[2023.05.27-16.34.15:415][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Hit_sfx...
+[2023.05.27-16.34.15:415][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/Hit_sfx.Hit_sfx will be modified from 40 to 40.
+[2023.05.27-16.34.15:428][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 61152 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/Hit_sfx.Hit_sfx.
+[2023.05.27-16.34.15:436][578]LogSkeletalMesh: Building Skeletal Mesh Walking...
+[2023.05.27-16.34.15:454][578]LogSkeletalMesh: Section 0: Material=0, 1368 triangles
+[2023.05.27-16.34.15:454][578]LogSkeletalMesh: Section 1: Material=1, 158 triangles
+[2023.05.27-16.34.15:462][578]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/SavingChristmasFiles/Characters/Santa/Walking.Walking
+[2023.05.27-16.34.15:463][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave IceSpike_sfx...
+[2023.05.27-16.34.15:464][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/IceSpike_sfx.IceSpike_sfx will be modified from 40 to 40.
+[2023.05.27-16.34.15:528][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 407460 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/IceSpike_sfx.IceSpike_sfx.
+[2023.05.27-16.34.15:529][578]LogTexture: Display: Building textures: presentfull_ui_t (BGRA8, 87X95)
+[2023.05.27-16.34.15:530][578]LogTexture: Display: Building textures: presentempty_ui_t (BGRA8, 87X95)
+[2023.05.27-16.34.15:541][578]LogSkeletalMesh: Building Skeletal Mesh Goblin_Walk...
+[2023.05.27-16.34.15:581][578]LogSkeletalMesh: Section 0: Material=0, 2462 triangles
+[2023.05.27-16.34.15:600][578]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/SavingChristmasFiles/Characters/Goblin/Goblin_Walk.Goblin_Walk
+[2023.05.27-16.34.15:602][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Snowball_sfx...
+[2023.05.27-16.34.15:602][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/Snowball_sfx.Snowball_sfx will be modified from 40 to 40.
+[2023.05.27-16.34.15:620][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 159452 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/Snowball_sfx.Snowball_sfx.
+[2023.05.27-16.34.15:621][578]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave FrostySpawn_sfx...
+[2023.05.27-16.34.15:622][578]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SavingChristmasFiles/SoundEffects/FrostySpawn_sfx.FrostySpawn_sfx will be modified from 40 to 40.
+[2023.05.27-16.34.15:678][578]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 204
+[2023.05.27-16.34.15:678][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.15:678][578]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 194
+[2023.05.27-16.34.15:678][578]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 184
+[2023.05.27-16.34.15:678][578]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.15:678][578]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 502788 while cooking SoundWave /Game/SavingChristmasFiles/SoundEffects/FrostySpawn_sfx.FrostySpawn_sfx.
+[2023.05.27-16.34.15:680][578]LogMaterial: Display: Missing cached shadermap for lambert3 in PCD3D_SM5, Default, SM5 (DDC key hash: EB15454D6030F4D5D17624EC1F992A4A6D1EF110), compiling. 
+[2023.05.27-16.34.15:701][578]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.27-16.34.15:702][578]LogTexture: Display: Building textures: heart_ui_t (BGRA8, 100X90)
+[2023.05.27-16.34.15:710][578]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.05.27-16.34.15:712][578]LogAIModule: Creating AISystem for world Level1
+[2023.05.27-16.34.15:728][578]LogLoad: Game class is 'MyGameMode_C'
+[2023.05.27-16.34.15:796][578]LogWorld: Bringing World /Game/Level1.Level1 up for play (max tick rate 0) at 2023.05.28-00.34.15
+[2023.05.27-16.34.15:801][578]LogWorld: Bringing up level for play took: 0.032628
+[2023.05.27-16.34.15:813][578]LogLoad: Took 5.857943 seconds to LoadMap(/Game/Level1)
+[2023.05.27-16.34.15:824][579]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.073254 > MaxSimulationTimeStep (0.050) for 'Goblin5', movement 'Walking'
+[2023.05.27-16.34.15:825][579]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.061695 > MaxSimulationTimeStep (0.050) for 'Goblin6', movement 'Walking'
+[2023.05.27-16.34.15:835][580]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 4
+[2023.05.27-16.34.15:835][580]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.27-16.34.15:852][580]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 5
+[2023.05.27-16.34.15:852][580]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.27-16.34.16:033][581]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 4
+[2023.05.27-16.34.16:033][581]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.27-16.34.16:036][581]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 3
+[2023.05.27-16.34.16:036][581]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.27-16.34.16:139][585]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 2
+[2023.05.27-16.34.16:139][585]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.27-16.34.16:161][587]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 1
+[2023.05.27-16.34.16:161][587]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.27-16.34.16:258][593]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 28
+[2023.05.27-16.34.16:258][593]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.16:349][600]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 26
+[2023.05.27-16.34.16:349][600]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.16:375][602]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 24
+[2023.05.27-16.34.16:375][602]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.16:386][603]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 22
+[2023.05.27-16.34.16:386][603]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.16:442][608]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 20
+[2023.05.27-16.34.16:442][608]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.16:693][633]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 18
+[2023.05.27-16.34.16:694][633]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.16:745][639]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 16
+[2023.05.27-16.34.16:745][639]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.16:909][658]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 14
+[2023.05.27-16.34.16:909][658]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.16:935][661]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 13
+[2023.05.27-16.34.16:935][661]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.17:009][666]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 12
+[2023.05.27-16.34.17:009][666]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.17:164][685]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 11
+[2023.05.27-16.34.17:164][685]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.17:234][695]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 10
+[2023.05.27-16.34.17:234][695]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.17:259][697]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 9
+[2023.05.27-16.34.17:259][697]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.17:259][697]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 8
+[2023.05.27-16.34.17:259][697]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 7
+[2023.05.27-16.34.17:259][697]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.17:274][698]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 6
+[2023.05.27-16.34.17:274][698]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.17:274][698]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 5
+[2023.05.27-16.34.17:274][698]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.17:449][716]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 4
+[2023.05.27-16.34.17:449][716]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.17:523][724]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 3
+[2023.05.27-16.34.17:523][724]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.17:581][731]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 2
+[2023.05.27-16.34.17:581][731]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 1
+[2023.05.27-16.34.17:581][731]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-16.34.17:696][744]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 172
+[2023.05.27-16.34.17:696][744]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.17:800][756]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 162
+[2023.05.27-16.34.17:800][756]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.17:837][760]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 152
+[2023.05.27-16.34.17:837][760]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 142
+[2023.05.27-16.34.17:837][760]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.17:857][762]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 132
+[2023.05.27-16.34.17:857][762]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.17:865][763]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 123
+[2023.05.27-16.34.17:865][763]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.17:933][770]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 115
+[2023.05.27-16.34.17:933][770]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.17:952][772]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 107
+[2023.05.27-16.34.17:952][772]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.18:029][780]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 100
+[2023.05.27-16.34.18:029][780]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 93
+[2023.05.27-16.34.18:029][780]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 86
+[2023.05.27-16.34.18:029][780]LogShaderCompilers: Display: Started 21 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.18:149][794]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 79
+[2023.05.27-16.34.18:149][794]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.18:210][800]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 74
+[2023.05.27-16.34.18:210][800]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.18:335][815]LogCharacterMovement: Goblin_5 is stuck and failed to move! Velocity: X=8.61 Y=-18.84 Z=0.00 Location: X=143.16 Y=-3073.26 Z=302.74 Normal: X=0.44 Y=0.90 Z=0.00 PenetrationDepth:0.004 Actor:CandyCane_GEN_VARIABLE_CandyCane_C_CAT_6525 Component:Sphere BoneName:None (0 other events since notify)
+[2023.05.27-16.34.19:189][915]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 69
+[2023.05.27-16.34.19:189][915]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.19:339][934]LogCharacterMovement: Goblin_5 is stuck and failed to move! Velocity: X=41.56 Y=-90.95 Z=0.00 Location: X=143.16 Y=-3073.26 Z=302.74 Normal: X=0.44 Y=0.90 Z=0.00 PenetrationDepth:1.473 Actor:CandyCane_GEN_VARIABLE_CandyCane_C_CAT_6525 Component:Sphere BoneName:None (118 other events since notify)
+[2023.05.27-16.34.19:718][980]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 64
+[2023.05.27-16.34.19:718][980]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.19:810][990]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 59
+[2023.05.27-16.34.19:811][990]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.20:344][ 55]LogCharacterMovement: Goblin_5 is stuck and failed to move! Velocity: X=41.56 Y=-90.95 Z=0.00 Location: X=143.16 Y=-3073.26 Z=302.74 Normal: X=0.45 Y=0.89 Z=0.00 PenetrationDepth:2.218 Actor:CandyCane_GEN_VARIABLE_CandyCane_C_CAT_6525 Component:Sphere BoneName:None (120 other events since notify)
+[2023.05.27-16.34.20:837][117]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 55
+[2023.05.27-16.34.20:837][117]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 51
+[2023.05.27-16.34.20:837][117]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 47
+[2023.05.27-16.34.20:837][117]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.20:858][118]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 43
+[2023.05.27-16.34.20:858][118]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.20:931][124]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 40
+[2023.05.27-16.34.20:931][124]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.21:116][143]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 37
+[2023.05.27-16.34.21:116][143]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.21:199][152]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 34
+[2023.05.27-16.34.21:199][152]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.21:248][157]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 31
+[2023.05.27-16.34.21:248][157]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.21:375][171]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 29
+[2023.05.27-16.34.21:375][171]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.21:652][204]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 27
+[2023.05.27-16.34.21:652][204]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.21:822][225]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 25
+[2023.05.27-16.34.21:822][225]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.21:854][228]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 23
+[2023.05.27-16.34.21:854][228]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 21
+[2023.05.27-16.34.21:854][228]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.21:942][238]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 19
+[2023.05.27-16.34.21:942][238]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.22:137][260]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 17
+[2023.05.27-16.34.22:137][260]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.22:388][292]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 15
+[2023.05.27-16.34.22:388][292]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 14
+[2023.05.27-16.34.22:388][292]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.22:413][293]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 13
+[2023.05.27-16.34.22:413][293]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.22:645][319]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 12
+[2023.05.27-16.34.22:645][319]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.22:692][325]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 11
+[2023.05.27-16.34.22:692][325]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 10
+[2023.05.27-16.34.22:692][325]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.22:704][326]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 9
+[2023.05.27-16.34.22:704][326]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 8
+[2023.05.27-16.34.22:704][326]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.22:734][326]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 7
+[2023.05.27-16.34.22:734][326]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.22:748][327]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 6
+[2023.05.27-16.34.22:748][327]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.22:748][327]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 5
+[2023.05.27-16.34.22:748][327]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.22:768][329]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 4
+[2023.05.27-16.34.22:768][329]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.22:804][335]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 3
+[2023.05.27-16.34.22:804][335]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.22:853][340]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2023.05.27-16.34.22:853][340]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.22:938][349]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 1
+[2023.05.27-16.34.22:938][349]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-16.34.50:355][419]LogCharacterMovement: Goblin6 is stuck and failed to move! Velocity: X=95.52 Y=-29.28 Z=0.00 Location: X=-180.25 Y=-1639.50 Z=255.91 Normal: X=0.52 Y=-0.86 Z=0.00 PenetrationDepth:12.620 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2023.05.27-16.34.51:356][956]LogCharacterMovement: Goblin6 is stuck and failed to move! Velocity: X=19.40 Y=-399.53 Z=0.00 Location: X=-163.83 Y=-1639.88 Z=256.17 Normal: X=0.82 Y=-0.57 Z=0.00 PenetrationDepth:8.115 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (186 other events since notify)
+[2023.05.27-16.35.01:675][428]LogNet: Browse: /Game/Level1
+[2023.05.27-16.35.01:675][428]LogLoad: LoadMap: /Game/Level1
+[2023.05.27-16.35.01:675][428]LogWorld: BeginTearingDown for /Game/Level1
+[2023.05.27-16.35.01:675][428]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.35.01:677][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.35.01:711][428]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-16.35.01:718][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.27-16.35.01:994][428]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Santa/Idle.Idle
+[2023.05.27-16.35.01:994][428]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Santa/Running.Running
+[2023.05.27-16.35.01:997][428]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.05.27-16.35.01:998][428]LogAIModule: Creating AISystem for world Level1
+[2023.05.27-16.35.01:998][428]LogLoad: Game class is 'MyGameMode_C'
+[2023.05.27-16.35.02:009][428]LogWorld: Bringing World /Game/Level1.Level1 up for play (max tick rate 0) at 2023.05.28-00.35.02
+[2023.05.27-16.35.02:010][428]LogWorld: Bringing up level for play took: 0.011440
+[2023.05.27-16.35.02:012][428]LogLoad: Took 0.335884 seconds to LoadMap(/Game/Level1)
+[2023.05.27-16.35.25:522][957]LogCharacterMovement: Goblin6 is stuck and failed to move! Velocity: X=-9.49 Y=-4.27 Z=0.00 Location: X=-186.10 Y=-1639.68 Z=255.80 Normal: X=0.50 Y=-0.87 Z=0.00 PenetrationDepth:12.569 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2023.05.27-16.35.26:522][472]LogCharacterMovement: Goblin6 is stuck and failed to move! Velocity: X=-27.73 Y=-83.25 Z=0.00 Location: X=-172.46 Y=-1639.78 Z=257.50 Normal: X=0.76 Y=-0.65 Z=0.00 PenetrationDepth:11.504 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (501 other events since notify)
+[2023.05.27-16.35.31:910][325]LogNet: Browse: /Game/Level1
+[2023.05.27-16.35.31:910][325]LogLoad: LoadMap: /Game/Level1
+[2023.05.27-16.35.31:910][325]LogWorld: BeginTearingDown for /Game/Level1
+[2023.05.27-16.35.31:910][325]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.35.31:911][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.35.31:945][325]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-16.35.31:954][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.05.27-16.35.32:211][325]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Meshes/Chimney_Anim.Chimney_Anim
+[2023.05.27-16.35.32:211][325]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Santa/Teleport.Teleport
+[2023.05.27-16.35.32:219][325]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.05.27-16.35.32:219][325]LogAIModule: Creating AISystem for world Level1
+[2023.05.27-16.35.32:220][325]LogLoad: Game class is 'MyGameMode_C'
+[2023.05.27-16.35.32:230][325]LogWorld: Bringing World /Game/Level1.Level1 up for play (max tick rate 0) at 2023.05.28-00.35.32
+[2023.05.27-16.35.32:231][325]LogWorld: Bringing up level for play took: 0.011475
+[2023.05.27-16.35.32:233][325]LogLoad: Took 0.323357 seconds to LoadMap(/Game/Level1)
+[2023.05.27-16.35.41:757][465]LogCharacterMovement: Satan_C_0 is stuck and failed to move! Velocity: X=-7.10 Y=-3.52 Z=0.00 Location: X=435.42 Y=-3449.29 Z=553.12 Normal: X=-0.46 Y=0.89 Z=-0.00 PenetrationDepth:0.000 Actor:Cliff_5 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.05.27-16.35.55:373][568]LogNet: Browse: /Game/Level1
+[2023.05.27-16.35.55:373][568]LogLoad: LoadMap: /Game/Level1
+[2023.05.27-16.35.55:373][568]LogWorld: BeginTearingDown for /Game/Level1
+[2023.05.27-16.35.55:373][568]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.35.55:374][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.35.55:414][568]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-16.35.55:421][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.27-16.35.55:675][568]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Frosty/frosty_death_Anim.frosty_death_Anim
+[2023.05.27-16.35.55:675][568]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Present/present_idle1_Anim.present_idle1_Anim
+[2023.05.27-16.35.55:687][568]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.05.27-16.35.55:688][568]LogAIModule: Creating AISystem for world Level1
+[2023.05.27-16.35.55:688][568]LogLoad: Game class is 'MyGameMode_C'
+[2023.05.27-16.35.55:698][568]LogWorld: Bringing World /Game/Level1.Level1 up for play (max tick rate 0) at 2023.05.28-00.35.55
+[2023.05.27-16.35.55:699][568]LogWorld: Bringing up level for play took: 0.010793
+[2023.05.27-16.35.55:701][568]LogLoad: Took 0.327725 seconds to LoadMap(/Game/Level1)
+[2023.05.27-16.36.16:851][856]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=1.42 Y=-3.06 Z=0.00 Location: X=12.66 Y=-1425.98 Z=369.74 Normal: X=0.75 Y=0.66 Z=0.00 PenetrationDepth:0.000 Actor:CandyCane4_9364 Component:Sphere BoneName:None (0 other events since notify)
+[2023.05.27-16.36.19:949][495]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=40.23 Y=393.61 Z=0.00 Location: X=-223.30 Y=-1305.99 Z=343.46 Normal: X=-0.95 Y=-0.31 Z=0.00 PenetrationDepth:0.323 Actor:Goblin6 Component:CharacterMesh0 BoneName:RightHand (493 other events since notify)
+[2023.05.27-16.36.20:989][ 45]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=-311.24 Y=191.90 Z=0.00 Location: X=-304.73 Y=-1173.57 Z=282.76 Normal: X=-0.78 Y=0.63 Z=0.00 PenetrationDepth:0.719 Actor:Goblin6 Component:CharacterMesh0 BoneName:RightHand (39 other events since notify)
+[2023.05.27-16.36.23:123][183]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=175.61 Y=-89.40 Z=0.00 Location: X=-218.29 Y=-1641.22 Z=256.73 Normal: X=-1.00 Y=-0.09 Z=0.00 PenetrationDepth:0.122 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2023.05.27-16.36.24:123][715]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=120.85 Y=-381.31 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.93 Y=-0.37 Z=0.00 PenetrationDepth:6.584 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (216 other events since notify)
+[2023.05.27-16.36.24:420][872]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-3.75 Y=-1.00 Z=0.00 Location: X=-123.33 Y=-1602.30 Z=260.56 Normal: X=0.80 Y=0.61 Z=0.00 PenetrationDepth:0.005 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2023.05.27-16.36.25:124][248]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=68.41 Y=-215.84 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.85 Y=-0.52 Z=0.00 PenetrationDepth:7.849 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (528 other events since notify)
+[2023.05.27-16.36.25:421][407]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-95.14 Y=-30.81 Z=0.00 Location: X=-128.47 Y=-1601.23 Z=260.38 Normal: X=0.78 Y=0.63 Z=0.00 PenetrationDepth:2.850 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (457 other events since notify)
+[2023.05.27-16.36.25:821][617]LogCharacterMovement: Goblin5 is stuck and failed to move! Velocity: X=-8.46 Y=99.64 Z=0.00 Location: X=-285.71 Y=-1393.44 Z=252.46 Normal: X=0.84 Y=-0.54 Z=0.00 PenetrationDepth:1.045 Actor:Goblin6 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2023.05.27-16.36.26:128][771]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=120.85 Y=-381.31 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.72 Y=-0.69 Z=0.00 PenetrationDepth:17.640 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (464 other events since notify)
+[2023.05.27-16.36.26:421][921]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-90.75 Y=-42.01 Z=0.00 Location: X=-137.36 Y=-1599.43 Z=261.38 Normal: X=0.69 Y=0.73 Z=0.00 PenetrationDepth:8.500 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (407 other events since notify)
+[2023.05.27-16.36.27:129][290]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=120.85 Y=-381.31 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.94 Y=-0.33 Z=0.00 PenetrationDepth:5.139 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:RightHand (518 other events since notify)
+[2023.05.27-16.36.27:423][447]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-94.44 Y=-32.89 Z=0.00 Location: X=-130.38 Y=-1600.85 Z=259.81 Normal: X=0.80 Y=0.60 Z=0.00 PenetrationDepth:6.265 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (522 other events since notify)
+[2023.05.27-16.36.28:129][807]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=120.85 Y=-381.31 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=0.92 Y=0.39 Z=0.00 PenetrationDepth:18.848 Actor:Goblin6 Component:CharacterMesh0 BoneName:LeftHand (516 other events since notify)
+[2023.05.27-16.36.28:425][958]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-94.44 Y=-32.89 Z=0.00 Location: X=-130.38 Y=-1600.85 Z=259.81 Normal: X=0.78 Y=0.63 Z=0.00 PenetrationDepth:5.776 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (510 other events since notify)
+[2023.05.27-16.36.29:129][325]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=120.85 Y=-381.31 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.83 Y=-0.56 Z=0.00 PenetrationDepth:15.721 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (517 other events since notify)
+[2023.05.27-16.36.29:425][481]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-94.43 Y=-32.92 Z=0.00 Location: X=-130.39 Y=-1600.84 Z=259.81 Normal: X=0.78 Y=0.63 Z=0.00 PenetrationDepth:5.014 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (514 other events since notify)
+[2023.05.27-16.36.30:270][926]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=1.41 Y=-4.44 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.78 Y=-0.62 Z=0.00 PenetrationDepth:17.358 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (383 other events since notify)
+[2023.05.27-16.36.30:425][  7]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-88.95 Y=-45.69 Z=0.00 Location: X=-139.76 Y=-1598.95 Z=261.51 Normal: X=0.67 Y=0.75 Z=-0.00 PenetrationDepth:8.285 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (450 other events since notify)
+[2023.05.27-16.36.31:271][457]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=120.85 Y=-381.31 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.77 Y=-0.64 Z=0.00 PenetrationDepth:15.916 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (530 other events since notify)
+[2023.05.27-16.36.31:427][541]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-88.90 Y=-45.80 Z=0.00 Location: X=-139.79 Y=-1598.92 Z=261.51 Normal: X=0.78 Y=0.63 Z=0.00 PenetrationDepth:13.157 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (532 other events since notify)
+[2023.05.27-16.36.32:273][991]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=113.25 Y=-357.31 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.86 Y=-0.51 Z=0.00 PenetrationDepth:0.965 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:RightArm (523 other events since notify)
+[2023.05.27-16.36.32:427][ 72]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-88.66 Y=-46.25 Z=0.00 Location: X=-140.07 Y=-1598.86 Z=261.54 Normal: X=0.66 Y=0.76 Z=0.00 PenetrationDepth:10.965 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (497 other events since notify)
+[2023.05.27-16.36.33:427][602]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-88.66 Y=-46.25 Z=0.00 Location: X=-140.07 Y=-1598.86 Z=261.54 Normal: X=0.61 Y=0.79 Z=0.00 PenetrationDepth:4.025 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (529 other events since notify)
+[2023.05.27-16.36.33:647][720]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=1.12 Y=-3.52 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.87 Y=-0.49 Z=0.00 PenetrationDepth:16.167 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:RightHand (514 other events since notify)
+[2023.05.27-16.36.34:428][136]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-88.66 Y=-46.25 Z=0.00 Location: X=-140.07 Y=-1598.86 Z=261.54 Normal: X=0.78 Y=0.63 Z=0.00 PenetrationDepth:12.642 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (521 other events since notify)
+[2023.05.27-16.36.34:649][254]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=120.85 Y=-381.31 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.68 Y=-0.74 Z=0.00 PenetrationDepth:21.468 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (533 other events since notify)
+[2023.05.27-16.36.35:429][674]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-88.66 Y=-46.25 Z=0.00 Location: X=-140.07 Y=-1598.86 Z=261.54 Normal: X=0.63 Y=0.78 Z=0.00 PenetrationDepth:10.983 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (537 other events since notify)
+[2023.05.27-16.36.35:649][793]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=120.85 Y=-381.31 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.76 Y=-0.65 Z=0.00 PenetrationDepth:16.063 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (525 other events since notify)
+[2023.05.27-16.36.36:430][215]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-88.66 Y=-46.25 Z=0.00 Location: X=-140.07 Y=-1598.86 Z=261.54 Normal: X=0.60 Y=0.80 Z=0.00 PenetrationDepth:3.506 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (540 other events since notify)
+[2023.05.27-16.36.36:650][335]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=60.93 Y=-192.23 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.85 Y=-0.52 Z=0.00 PenetrationDepth:8.432 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:RightHand (426 other events since notify)
+[2023.05.27-16.36.37:432][763]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-88.66 Y=-46.25 Z=0.00 Location: X=-140.07 Y=-1598.86 Z=261.54 Normal: X=0.74 Y=0.67 Z=0.00 PenetrationDepth:13.100 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (515 other events since notify)
+[2023.05.27-16.36.37:651][881]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=120.85 Y=-381.31 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.73 Y=-0.68 Z=0.00 PenetrationDepth:20.874 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (545 other events since notify)
+[2023.05.27-16.36.38:433][305]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-88.67 Y=-46.23 Z=0.00 Location: X=-140.05 Y=-1598.87 Z=261.54 Normal: X=0.60 Y=0.80 Z=0.00 PenetrationDepth:3.814 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (535 other events since notify)
+[2023.05.27-16.36.39:435][849]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-88.67 Y=-46.23 Z=0.00 Location: X=-140.05 Y=-1598.87 Z=261.54 Normal: X=0.59 Y=0.81 Z=0.00 PenetrationDepth:2.689 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (543 other events since notify)
+[2023.05.27-16.36.40:436][389]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-88.67 Y=-46.23 Z=0.00 Location: X=-140.05 Y=-1598.87 Z=261.54 Normal: X=0.60 Y=0.80 Z=0.00 PenetrationDepth:3.209 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (539 other events since notify)
+[2023.05.27-16.36.41:108][752]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=1.13 Y=-3.56 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.79 Y=-0.62 Z=0.00 PenetrationDepth:16.151 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (237 other events since notify)
+[2023.05.27-16.36.41:435][928]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-88.66 Y=-46.25 Z=0.00 Location: X=-140.06 Y=-1598.86 Z=261.54 Normal: X=0.65 Y=0.76 Z=0.00 PenetrationDepth:9.565 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (519 other events since notify)
+[2023.05.27-16.36.42:108][289]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=120.85 Y=-381.31 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.73 Y=-0.68 Z=0.00 PenetrationDepth:21.180 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (536 other events since notify)
+[2023.05.27-16.36.42:438][466]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-88.66 Y=-46.25 Z=0.00 Location: X=-140.06 Y=-1598.86 Z=261.54 Normal: X=0.70 Y=0.72 Z=0.00 PenetrationDepth:12.300 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (537 other events since notify)
+[2023.05.27-16.36.43:109][825]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=120.85 Y=-381.31 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=0.97 Y=0.20 Z=0.13 PenetrationDepth:1.858 Actor:Goblin6 Component:CharacterMesh0 BoneName:LeftHand (535 other events since notify)
+[2023.05.27-16.36.43:437][  0]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-88.66 Y=-46.25 Z=0.00 Location: X=-140.06 Y=-1598.86 Z=261.54 Normal: X=0.58 Y=0.81 Z=0.00 PenetrationDepth:2.784 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (531 other events since notify)
+[2023.05.27-16.36.44:111][357]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=5.15 Y=-16.25 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.79 Y=-0.62 Z=0.00 PenetrationDepth:15.711 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (313 other events since notify)
+[2023.05.27-16.36.44:439][532]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-88.66 Y=-46.25 Z=0.00 Location: X=-140.06 Y=-1598.86 Z=261.54 Normal: X=0.64 Y=0.77 Z=0.00 PenetrationDepth:9.566 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (492 other events since notify)
+[2023.05.27-16.36.45:112][892]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=153.98 Y=-369.17 Z=0.00 Location: X=-194.05 Y=-1640.21 Z=256.66 Normal: X=-0.98 Y=-0.18 Z=-0.00 PenetrationDepth:2.030 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:RightHand (534 other events since notify)
+[2023.05.27-16.36.56:852][198]LogCharacterMovement: Goblin5 is stuck and failed to move! Velocity: X=0.25 Y=-7.48 Z=0.00 Location: X=-742.52 Y=-694.94 Z=222.58 Normal: X=-0.40 Y=-0.92 Z=0.00 PenetrationDepth:0.260 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (68 other events since notify)
+[2023.05.27-16.36.57:853][736]LogCharacterMovement: Goblin5 is stuck and failed to move! Velocity: X=13.21 Y=-399.78 Z=0.00 Location: X=-742.52 Y=-694.94 Z=222.58 Normal: X=-0.46 Y=-0.89 Z=0.00 PenetrationDepth:1.291 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (416 other events since notify)
+[2023.05.27-16.36.59:018][358]LogCharacterMovement: Goblin5 is stuck and failed to move! Velocity: X=0.13 Y=-3.98 Z=0.00 Location: X=-742.50 Y=-694.94 Z=222.58 Normal: X=-0.73 Y=-0.68 Z=0.00 PenetrationDepth:13.229 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (300 other events since notify)
+[2023.05.27-16.37.00:102][919]LogCharacterMovement: Goblin5 is stuck and failed to move! Velocity: X=-36.26 Y=-102.28 Z=0.00 Location: X=-685.62 Y=-961.55 Z=259.49 Normal: X=-0.54 Y=-0.84 Z=-0.00 PenetrationDepth:0.306 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:LeftHand (89 other events since notify)
+[2023.05.27-16.37.21:767][326]LogCharacterMovement: Goblin5 is stuck and failed to move! Velocity: X=0.92 Y=100.00 Z=0.00 Location: X=-382.45 Y=-1186.05 Z=283.86 Normal: X=-0.39 Y=0.92 Z=0.00 PenetrationDepth:5.200 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2023.05.27-16.37.36:697][228]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=23.15 Y=-80.01 Z=0.00 Location: X=44.95 Y=-952.04 Z=270.11 Normal: X=-0.23 Y=-0.97 Z=0.00 PenetrationDepth:0.033 Actor:Goblin5 Component:CharacterMesh0 BoneName:RightHand (444 other events since notify)
+[2023.05.27-16.37.39:264][605]LogCharacterMovement: Goblin_5 is stuck and failed to move! Velocity: X=-3.30 Y=1.55 Z=0.00 Location: X=-294.90 Y=-2778.27 Z=245.88 Normal: X=0.97 Y=-0.22 Z=-0.04 PenetrationDepth:34.799 Actor:Satan_C_0 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2023.05.27-16.37.42:195][182]LogNet: Browse: /Game/Level1
+[2023.05.27-16.37.42:195][182]LogLoad: LoadMap: /Game/Level1
+[2023.05.27-16.37.42:195][182]LogWorld: BeginTearingDown for /Game/Level1
+[2023.05.27-16.37.42:195][182]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.37.42:195][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.37.42:234][182]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-16.37.42:245][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.05.27-16.37.42:479][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Santa/Walking_Anim.Walking_Anim
+[2023.05.27-16.37.42:479][182]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Frosty/frosty_despawn_Anim.frosty_despawn_Anim
+[2023.05.27-16.37.42:516][182]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.05.27-16.37.42:516][182]LogAIModule: Creating AISystem for world Level1
+[2023.05.27-16.37.42:516][182]LogLoad: Game class is 'MyGameMode_C'
+[2023.05.27-16.37.42:527][182]LogWorld: Bringing World /Game/Level1.Level1 up for play (max tick rate 0) at 2023.05.28-00.37.42
+[2023.05.27-16.37.42:528][182]LogWorld: Bringing up level for play took: 0.010978
+[2023.05.27-16.37.42:529][182]LogLoad: Took 0.333872 seconds to LoadMap(/Game/Level1)
+[2023.05.27-16.37.45:330][690]LogCharacterMovement: Goblin_5 is stuck and failed to move! Velocity: X=30.45 Y=-23.14 Z=0.00 Location: X=142.74 Y=-3072.84 Z=302.70 Normal: X=0.43 Y=0.90 Z=0.00 PenetrationDepth:0.005 Actor:CandyCane_GEN_VARIABLE_CandyCane_C_CAT_6525 Component:Sphere BoneName:None (0 other events since notify)
+[2023.05.27-16.37.46:333][230]LogCharacterMovement: Goblin_5 is stuck and failed to move! Velocity: X=1.06 Y=-99.99 Z=0.00 Location: X=142.74 Y=-3072.84 Z=302.70 Normal: X=0.43 Y=0.90 Z=0.00 PenetrationDepth:1.643 Actor:CandyCane_GEN_VARIABLE_CandyCane_C_CAT_6525 Component:Sphere BoneName:None (539 other events since notify)
+[2023.05.27-16.37.47:334][771]LogCharacterMovement: Goblin_5 is stuck and failed to move! Velocity: X=1.06 Y=-99.99 Z=0.00 Location: X=142.74 Y=-3072.84 Z=302.70 Normal: X=0.45 Y=0.89 Z=0.00 PenetrationDepth:1.831 Actor:CandyCane_GEN_VARIABLE_CandyCane_C_CAT_6525 Component:Sphere BoneName:None (540 other events since notify)
+[2023.05.27-16.37.48:336][312]LogCharacterMovement: Goblin_5 is stuck and failed to move! Velocity: X=1.06 Y=-99.99 Z=0.00 Location: X=142.74 Y=-3072.84 Z=302.70 Normal: X=0.45 Y=0.89 Z=0.00 PenetrationDepth:0.189 Actor:CandyCane_GEN_VARIABLE_CandyCane_C_CAT_6525 Component:Sphere BoneName:None (540 other events since notify)
+[2023.05.27-16.37.50:262][347]LogCharacterMovement: Goblin_5 is stuck and failed to move! Velocity: X=0.09 Y=-3.69 Z=0.00 Location: X=143.29 Y=-3073.38 Z=302.75 Normal: X=0.44 Y=0.90 Z=0.00 PenetrationDepth:1.783 Actor:CandyCane_GEN_VARIABLE_CandyCane_C_CAT_6525 Component:Sphere BoneName:None (172 other events since notify)
+[2023.05.27-16.38.06:770][116]LogNet: Browse: /Game/Level1
+[2023.05.27-16.38.06:770][116]LogLoad: LoadMap: /Game/Level1
+[2023.05.27-16.38.06:770][116]LogWorld: BeginTearingDown for /Game/Level1
+[2023.05.27-16.38.06:771][116]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.38.06:772][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.38.06:802][116]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-16.38.06:809][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.27-16.38.07:058][116]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Frosty/frosty_spawn_Anim.frosty_spawn_Anim
+[2023.05.27-16.38.07:058][116]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Santa/Falling_Idle.Falling_Idle
+[2023.05.27-16.38.07:076][116]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.05.27-16.38.07:077][116]LogAIModule: Creating AISystem for world Level1
+[2023.05.27-16.38.07:077][116]LogLoad: Game class is 'MyGameMode_C'
+[2023.05.27-16.38.07:088][116]LogWorld: Bringing World /Game/Level1.Level1 up for play (max tick rate 0) at 2023.05.28-00.38.07
+[2023.05.27-16.38.07:089][116]LogWorld: Bringing up level for play took: 0.011695
+[2023.05.27-16.38.07:091][116]LogLoad: Took 0.320560 seconds to LoadMap(/Game/Level1)
+[2023.05.27-16.38.29:993][319]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=15.17 Y=224.45 Z=0.00 Location: X=-372.15 Y=-990.80 Z=320.24 Normal: X=-0.87 Y=0.50 Z=0.00 PenetrationDepth:1.425 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2023.05.27-16.38.31:663][191]LogCharacterMovement: Goblin6 is stuck and failed to move! Velocity: X=258.60 Y=-132.78 Z=0.00 Location: X=-530.97 Y=-871.44 Z=281.67 Normal: X=0.72 Y=0.69 Z=0.00 PenetrationDepth:0.091 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2023.05.27-16.38.32:412][589]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=66.17 Y=43.28 Z=0.00 Location: X=-583.36 Y=-877.64 Z=278.64 Normal: X=0.25 Y=0.97 Z=-0.00 PenetrationDepth:4.449 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (55 other events since notify)
+[2023.05.27-16.38.32:480][626]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=-38.10 Y=38.10 Z=0.00 Location: X=-608.39 Y=-940.53 Z=263.28 Normal: X=-0.70 Y=-0.71 Z=0.00 PenetrationDepth:0.186 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2023.05.27-16.38.35:319][143]LogCharacterMovement: Goblin6 is stuck and failed to move! Velocity: X=152.04 Y=-39.25 Z=0.00 Location: X=-163.67 Y=-1640.03 Z=256.75 Normal: X=0.64 Y=-0.77 Z=0.00 PenetrationDepth:7.368 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (156 other events since notify)
+[2023.05.27-16.38.35:540][263]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=2.36 Y=-50.84 Z=0.00 Location: X=-224.18 Y=-1622.56 Z=255.66 Normal: X=0.59 Y=-0.80 Z=0.00 PenetrationDepth:1.914 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:LeftHand (43 other events since notify)
+[2023.05.27-16.38.35:760][381]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=132.14 Y=-163.36 Z=0.00 Location: X=-214.51 Y=-1564.78 Z=254.53 Normal: X=0.98 Y=0.18 Z=-0.00 PenetrationDepth:0.440 Actor:Goblin5 Component:CharacterMesh0 BoneName:LeftHand (17 other events since notify)
+[2023.05.27-16.38.36:541][796]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=40.57 Y=-12.26 Z=0.00 Location: X=-226.91 Y=-1641.63 Z=256.83 Normal: X=-0.50 Y=-0.87 Z=0.00 PenetrationDepth:2.795 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (426 other events since notify)
+[2023.05.27-16.38.36:946][ 10]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=16.82 Y=-31.61 Z=0.00 Location: X=-174.38 Y=-1579.03 Z=265.72 Normal: X=0.43 Y=0.90 Z=0.08 PenetrationDepth:1.798 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:RightHand (164 other events since notify)
+[2023.05.27-16.38.37:543][328]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=34.97 Y=-35.64 Z=0.00 Location: X=-202.18 Y=-1640.58 Z=256.83 Normal: X=-0.28 Y=-0.96 Z=0.00 PenetrationDepth:17.174 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (280 other events since notify)
+[2023.05.27-16.38.39:503][373]LogCharacterMovement: Goblin5 is stuck and failed to move! Velocity: X=-6.32 Y=99.80 Z=0.00 Location: X=-298.32 Y=-1267.30 Z=251.51 Normal: X=0.17 Y=-0.99 Z=-0.00 PenetrationDepth:0.313 Actor:Goblin6 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2023.05.27-16.38.41:312][327]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=-0.21 Y=-3.77 Z=0.00 Location: X=-163.51 Y=-1640.23 Z=257.52 Normal: X=0.66 Y=-0.76 Z=0.00 PenetrationDepth:2.822 Actor:Goblin6 Component:CharacterMesh0 BoneName:Head (351 other events since notify)
+[2023.05.27-16.38.49:233][578]LogNet: Browse: /Game/Level1
+[2023.05.27-16.38.49:233][578]LogLoad: LoadMap: /Game/Level1
+[2023.05.27-16.38.49:233][578]LogWorld: BeginTearingDown for /Game/Level1
+[2023.05.27-16.38.49:233][578]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.38.49:234][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.38.49:270][578]LogAudio: Display: Waited 35.257500 ms for audio thread.
+[2023.05.27-16.38.49:278][578]LogAudio: Display: Waited 42.910698 ms for audio thread.
+[2023.05.27-16.38.49:285][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-16.38.49:298][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.05.27-16.38.49:524][578]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Santa/Jumping_Down.Jumping_Down
+[2023.05.27-16.38.49:524][578]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Santa/Jumping_Up.Jumping_Up
+[2023.05.27-16.38.49:564][578]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.05.27-16.38.49:564][578]LogAIModule: Creating AISystem for world Level1
+[2023.05.27-16.38.49:564][578]LogLoad: Game class is 'MyGameMode_C'
+[2023.05.27-16.38.49:575][578]LogWorld: Bringing World /Game/Level1.Level1 up for play (max tick rate 0) at 2023.05.28-00.38.49
+[2023.05.27-16.38.49:575][578]LogWorld: Bringing up level for play took: 0.011140
+[2023.05.27-16.38.49:578][578]LogLoad: Took 0.345318 seconds to LoadMap(/Game/Level1)
+[2023.05.27-16.39.10:747][878]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=-0.43 Y=-3.83 Z=0.00 Location: X=12.69 Y=-1426.01 Z=369.77 Normal: X=0.75 Y=0.66 Z=0.00 PenetrationDepth:0.000 Actor:CandyCane4_9364 Component:Sphere BoneName:None (0 other events since notify)
+[2023.05.27-16.39.13:553][342]LogCharacterMovement: Goblin6 is stuck and failed to move! Velocity: X=6.45 Y=-3.57 Z=0.00 Location: X=-183.55 Y=-1639.58 Z=255.85 Normal: X=0.49 Y=-0.87 Z=0.00 PenetrationDepth:1.488 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2023.05.27-16.39.14:554][854]LogCharacterMovement: Goblin6 is stuck and failed to move! Velocity: X=-31.05 Y=-26.96 Z=0.00 Location: X=-184.84 Y=-1639.65 Z=255.92 Normal: X=0.67 Y=-0.74 Z=0.00 PenetrationDepth:2.616 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (486 other events since notify)
+[2023.05.27-16.39.17:573][416]LogCharacterMovement: Goblin_5 is stuck and failed to move! Velocity: X=-241.34 Y=-271.29 Z=0.00 Location: X=91.64 Y=-3206.26 Z=330.08 Normal: X=0.39 Y=0.60 Z=-0.69 PenetrationDepth:0.219 Actor:Satan_C_0 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2023.05.27-16.39.20:478][936]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=206.94 Y=-342.31 Z=0.00 Location: X=-208.82 Y=-1621.85 Z=253.19 Normal: X=-0.04 Y=0.91 Z=-0.41 PenetrationDepth:0.069 Actor:Goblin6 Component:CharacterMesh0 BoneName:Head (63 other events since notify)
+[2023.05.27-16.39.22:630][ 77]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=-12.18 Y=-132.53 Z=0.00 Location: X=-162.32 Y=-1591.47 Z=263.42 Normal: X=0.34 Y=0.94 Z=0.00 PenetrationDepth:0.008 Actor:Goblin6 Component:CharacterMesh0 BoneName:LeftHand (33 other events since notify)
+[2023.05.27-16.39.24:363][991]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=47.07 Y=-68.95 Z=0.00 Location: X=-197.01 Y=-1553.38 Z=264.73 Normal: X=0.07 Y=1.00 Z=0.00 PenetrationDepth:0.056 Actor:Goblin6 Component:CharacterMesh0 BoneName:LeftHand (146 other events since notify)
+[2023.05.27-16.39.24:559][ 95]LogNet: Browse: /Game/Level1
+[2023.05.27-16.39.24:559][ 95]LogLoad: LoadMap: /Game/Level1
+[2023.05.27-16.39.24:559][ 95]LogWorld: BeginTearingDown for /Game/Level1
+[2023.05.27-16.39.24:560][ 95]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.39.24:560][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.39.24:598][ 95]LogAudio: Display: Waited 36.834400 ms for audio thread.
+[2023.05.27-16.39.24:605][ 95]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-16.39.24:610][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.27-16.39.24:879][ 95]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SavingChristmasFiles/Characters/Present/present_idle2_Anim.present_idle2_Anim
+[2023.05.27-16.39.24:879][ 95]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.05.27-16.39.24:879][ 95]LogAIModule: Creating AISystem for world Level1
+[2023.05.27-16.39.24:880][ 95]LogLoad: Game class is 'MyGameMode_C'
+[2023.05.27-16.39.24:889][ 95]LogWorld: Bringing World /Game/Level1.Level1 up for play (max tick rate 0) at 2023.05.28-00.39.24
+[2023.05.27-16.39.24:890][ 95]LogWorld: Bringing up level for play took: 0.010820
+[2023.05.27-16.39.24:892][ 95]LogLoad: Took 0.333177 seconds to LoadMap(/Game/Level1)
+[2023.05.27-16.39.33:236][582]LogCharacterMovement: Goblin_5 is stuck and failed to move! Velocity: X=7.51 Y=-6.40 Z=0.00 Location: X=138.56 Y=-3068.65 Z=302.34 Normal: X=0.39 Y=0.92 Z=0.00 PenetrationDepth:0.001 Actor:CandyCane_GEN_VARIABLE_CandyCane_C_CAT_6525 Component:Sphere BoneName:None (0 other events since notify)
+[2023.05.27-16.39.36:153][124]LogCharacterMovement: Goblin2_8 is stuck and failed to move! Velocity: X=41.53 Y=198.84 Z=0.00 Location: X=114.48 Y=-2583.73 Z=380.46 Normal: X=0.94 Y=-0.35 Z=0.00 PenetrationDepth:0.017 Actor:CandyCane_GEN_VARIABLE_CandyCane_C_CAT_7288 Component:Sphere BoneName:None (0 other events since notify)
+[2023.05.27-16.39.37:271][719]LogCharacterMovement: Goblin2_8 is stuck and failed to move! Velocity: X=-1.40 Y=3.22 Z=0.00 Location: X=114.90 Y=-2582.60 Z=379.68 Normal: X=0.87 Y=-0.49 Z=0.00 PenetrationDepth:12.766 Actor:CandyCane_GEN_VARIABLE_CandyCane_C_CAT_7288 Component:Sphere BoneName:None (232 other events since notify)
+[2023.05.27-16.39.38:271][258]LogCharacterMovement: Goblin2_8 is stuck and failed to move! Velocity: X=-159.35 Y=366.89 Z=0.00 Location: X=114.91 Y=-2582.57 Z=379.68 Normal: X=0.74 Y=-0.67 Z=0.00 PenetrationDepth:16.235 Actor:CandyCane_GEN_VARIABLE_CandyCane_C_CAT_7288 Component:Sphere BoneName:None (493 other events since notify)
+[2023.05.27-16.39.38:375][311]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=-0.52 Y=-4.62 Z=0.00 Location: X=12.67 Y=-1425.74 Z=369.76 Normal: X=0.74 Y=0.67 Z=0.00 PenetrationDepth:0.001 Actor:CandyCane4_9364 Component:Sphere BoneName:None (0 other events since notify)
+[2023.05.27-16.39.39:312][808]LogCharacterMovement: Goblin2_8 is stuck and failed to move! Velocity: X=-1.53 Y=3.53 Z=0.00 Location: X=114.91 Y=-2582.57 Z=379.68 Normal: X=0.59 Y=-0.81 Z=0.00 PenetrationDepth:11.407 Actor:CandyCane_GEN_VARIABLE_CandyCane_C_CAT_7288 Component:Sphere BoneName:None (518 other events since notify)
+[2023.05.27-16.39.39:377][843]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=26.94 Y=-140.67 Z=0.00 Location: X=12.67 Y=-1425.74 Z=369.76 Normal: X=0.74 Y=0.67 Z=0.00 PenetrationDepth:1.608 Actor:CandyCane4_9364 Component:Sphere BoneName:None (500 other events since notify)
+[2023.05.27-16.39.51:620][183]LogCharacterMovement: Goblin6 is stuck and failed to move! Velocity: X=6.33 Y=-10.52 Z=0.00 Location: X=-312.62 Y=-743.18 Z=278.95 Normal: X=0.31 Y=-0.95 Z=0.00 PenetrationDepth:1.592 Actor:Goblin5 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2023.05.27-16.39.55:659][285]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-13.07 Y=-12.50 Z=0.00 Location: X=-186.75 Y=-1639.73 Z=255.96 Normal: X=-0.02 Y=-1.00 Z=0.00 PenetrationDepth:1.567 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2023.05.27-16.39.55:742][328]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=-31.11 Y=-41.85 Z=0.00 Location: X=-234.01 Y=-1590.69 Z=255.62 Normal: X=0.90 Y=-0.44 Z=0.00 PenetrationDepth:0.589 Actor:Goblin6 Component:CharacterMesh0 BoneName:LeftHand (40 other events since notify)
+[2023.05.27-16.39.56:659][808]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-34.97 Y=-334.92 Z=0.00 Location: X=-163.15 Y=-1640.03 Z=256.65 Normal: X=0.80 Y=-0.60 Z=0.00 PenetrationDepth:3.536 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (443 other events since notify)
+[2023.05.27-16.39.57:017][998]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=-2.59 Y=-45.78 Z=0.00 Location: X=-238.10 Y=-1619.33 Z=256.03 Normal: X=0.95 Y=0.32 Z=0.00 PenetrationDepth:1.247 Actor:Goblin6 Component:CharacterMesh0 BoneName:LeftHand (37 other events since notify)
+[2023.05.27-16.39.58:018][528]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=-11.18 Y=-70.10 Z=0.00 Location: X=-183.31 Y=-1639.75 Z=256.71 Normal: X=0.77 Y=-0.64 Z=0.00 PenetrationDepth:7.467 Actor:Goblin6 Component:CharacterMesh0 BoneName:Head (251 other events since notify)
+[2023.05.27-16.40.00:272][745]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=-0.21 Y=-3.79 Z=0.00 Location: X=-184.06 Y=-1639.83 Z=256.82 Normal: X=-0.89 Y=-0.45 Z=0.00 PenetrationDepth:3.497 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:RightHand (388 other events since notify)
+[2023.05.27-16.40.00:411][819]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-3.28 Y=-1.04 Z=0.00 Location: X=-128.01 Y=-1601.32 Z=260.33 Normal: X=0.60 Y=0.80 Z=0.00 PenetrationDepth:0.206 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (362 other events since notify)
+[2023.05.27-16.40.01:273][287]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=201.94 Y=-345.28 Z=0.00 Location: X=-184.06 Y=-1639.83 Z=256.82 Normal: X=-1.00 Y=-0.10 Z=0.00 PenetrationDepth:3.236 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:RightHand (541 other events since notify)
+[2023.05.27-16.40.01:412][362]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-95.29 Y=-30.33 Z=0.00 Location: X=-128.01 Y=-1601.32 Z=260.33 Normal: X=0.83 Y=0.55 Z=0.00 PenetrationDepth:12.601 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (542 other events since notify)
+[2023.05.27-16.40.02:255][818]LogCharacterMovement: Goblin6 is stuck and failed to move! Velocity: X=10.48 Y=-1.89 Z=0.00 Location: X=-257.31 Y=-1633.44 Z=257.92 Normal: X=0.56 Y=-0.83 Z=-0.00 PenetrationDepth:0.571 Actor:Goblin5 Component:CharacterMesh0 BoneName:LeftHand (385 other events since notify)
+[2023.05.27-16.40.02:276][829]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=201.94 Y=-345.28 Z=0.00 Location: X=-184.06 Y=-1639.83 Z=256.82 Normal: X=-0.76 Y=-0.65 Z=0.00 PenetrationDepth:15.381 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (541 other events since notify)
+[2023.05.27-16.40.02:412][903]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-95.29 Y=-30.33 Z=0.00 Location: X=-128.01 Y=-1601.32 Z=260.33 Normal: X=0.82 Y=0.57 Z=0.00 PenetrationDepth:13.647 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (540 other events since notify)
+[2023.05.27-16.40.03:412][433]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-95.29 Y=-30.33 Z=0.00 Location: X=-128.01 Y=-1601.32 Z=260.33 Normal: X=0.67 Y=0.74 Z=0.00 PenetrationDepth:7.410 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (529 other events since notify)
+[2023.05.27-16.40.03:487][473]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=-0.22 Y=-3.90 Z=0.00 Location: X=-184.06 Y=-1639.83 Z=256.82 Normal: X=0.99 Y=-0.16 Z=0.00 PenetrationDepth:1.474 Actor:Goblin6 Component:CharacterMesh0 BoneName:Head (252 other events since notify)
+[2023.05.27-16.40.04:462][993]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-3.42 Y=-1.09 Z=0.00 Location: X=-128.01 Y=-1601.32 Z=260.33 Normal: X=0.59 Y=0.81 Z=0.00 PenetrationDepth:0.014 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (38 other events since notify)
+[2023.05.27-16.40.04:487][  7]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=-22.13 Y=-399.39 Z=0.00 Location: X=-184.06 Y=-1639.83 Z=256.82 Normal: X=-0.80 Y=-0.60 Z=0.00 PenetrationDepth:13.807 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (109 other events since notify)
+[2023.05.27-16.40.05:482][537]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-3.47 Y=-1.11 Z=0.00 Location: X=-128.01 Y=-1601.32 Z=260.33 Normal: X=0.54 Y=0.83 Z=0.15 PenetrationDepth:0.814 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:RightHand (245 other events since notify)
+[2023.05.27-16.40.05:487][540]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=-6.30 Y=-113.63 Z=0.00 Location: X=-184.06 Y=-1639.83 Z=256.82 Normal: X=-0.95 Y=-0.33 Z=0.00 PenetrationDepth:1.766 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:RightHand (264 other events since notify)
+[2023.05.27-16.40.06:430][ 34]LogCharacterMovement: Goblin6 is stuck and failed to move! Velocity: X=224.06 Y=-38.01 Z=0.00 Location: X=-256.33 Y=-1649.92 Z=261.95 Normal: X=-0.63 Y=-0.35 Z=0.70 PenetrationDepth:0.187 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:LeftLeg (11 other events since notify)
+[2023.05.27-16.40.06:489][ 63]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=391.38 Y=-82.61 Z=0.00 Location: X=-184.06 Y=-1639.83 Z=256.82 Normal: X=-0.88 Y=-0.47 Z=0.00 PenetrationDepth:11.592 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (522 other events since notify)
+[2023.05.27-16.40.06:595][120]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-3.39 Y=-1.07 Z=0.00 Location: X=-127.88 Y=-1601.35 Z=260.38 Normal: X=0.95 Y=0.30 Z=0.00 PenetrationDepth:2.507 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (402 other events since notify)
+[2023.05.27-16.40.07:490][599]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=-0.69 Y=-400.00 Z=0.00 Location: X=-174.75 Y=-1639.63 Z=256.74 Normal: X=-0.87 Y=-0.49 Z=0.00 PenetrationDepth:14.826 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (471 other events since notify)
+[2023.05.27-16.40.07:596][656]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-98.58 Y=-16.78 Z=0.00 Location: X=-111.06 Y=-1604.80 Z=261.44 Normal: X=0.80 Y=0.60 Z=0.00 PenetrationDepth:7.368 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (213 other events since notify)
+[2023.05.27-16.40.07:825][777]LogCharacterMovement: Goblin6 is stuck and failed to move! Velocity: X=34.10 Y=2.40 Z=0.00 Location: X=-221.59 Y=-1730.03 Z=309.36 Normal: X=-0.63 Y=-0.77 Z=0.00 PenetrationDepth:0.042 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:LeftHand (1 other events since notify)
+[2023.05.27-16.40.08:492][134]LogCharacterMovement: Goblin4_14 is stuck and failed to move! Velocity: X=-0.62 Y=-400.00 Z=0.00 Location: X=-174.78 Y=-1639.63 Z=256.74 Normal: X=-0.89 Y=-0.46 Z=0.00 PenetrationDepth:11.306 Actor:Goblin3_11 Component:CharacterMesh0 BoneName:Head (533 other events since notify)
+[2023.05.27-16.40.08:597][191]LogCharacterMovement: Goblin3_11 is stuck and failed to move! Velocity: X=-98.58 Y=-16.78 Z=0.00 Location: X=-111.06 Y=-1604.80 Z=261.44 Normal: X=0.74 Y=0.67 Z=0.00 PenetrationDepth:4.084 Actor:Goblin4_14 Component:CharacterMesh0 BoneName:Head (534 other events since notify)
+[2023.05.27-16.40.09:006][408]LogNet: Browse: /Game/Level1
+[2023.05.27-16.40.09:006][408]LogLoad: LoadMap: /Game/Level1
+[2023.05.27-16.40.09:006][408]LogWorld: BeginTearingDown for /Game/Level1
+[2023.05.27-16.40.09:006][408]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.40.09:007][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.40.09:044][408]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-16.40.09:049][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.05.27-16.40.09:312][408]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.05.27-16.40.09:312][408]LogAIModule: Creating AISystem for world Level1
+[2023.05.27-16.40.09:313][408]LogLoad: Game class is 'MyGameMode_C'
+[2023.05.27-16.40.09:323][408]LogWorld: Bringing World /Game/Level1.Level1 up for play (max tick rate 0) at 2023.05.28-00.40.09
+[2023.05.27-16.40.09:324][408]LogWorld: Bringing up level for play took: 0.011372
+[2023.05.27-16.40.09:327][408]LogLoad: Took 0.320871 seconds to LoadMap(/Game/Level1)
+[2023.05.27-16.40.16:589][132]LogSlate: Window 'SavingChristmas (64-bit Development PCD3D_SM5) ' being destroyed
+[2023.05.27-16.40.16:592][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-16.40.16:592][133]LogEngine: All Windows Closed
+[2023.05.27-16.40.16:592][133]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.05.27-16.40.16:592][133]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.05.27-16.40.16:592][133]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.05.27-16.40.16:592][134]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.05.27-16.40.16:592][134]LogInit: Display: PreExit Game.
+[2023.05.27-16.40.16:595][134]LogWorld: BeginTearingDown for /Game/Level1
+[2023.05.27-16.40.16:596][134]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.40.16:597][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.40.16:758][134]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.05.27-16.40.16:758][134]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.05.27-16.40.16:758][134]LogAudio: Display: Audio Device unregistered from world 'Level1'.
+[2023.05.27-16.40.16:808][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-16.40.16:808][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-16.40.16:810][134]LogAudio: Display: Audio Device Manager Shutdown
+[2023.05.27-16.40.16:811][134]LogExit: Preparing to exit.
+[2023.05.27-16.40.18:511][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-16.40.18:515][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.05.27-16.40.18:543][134]LogMoviePlayer: Shutting down movie player
+[2023.05.27-16.40.18:699][134]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.05.27-16.40.18:702][134]LogExit: Game engine shut down
+[2023.05.27-16.40.18:729][134]LogExit: Object subsystem successfully closed.
+[2023.05.27-16.40.18:742][134]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.27-16.40.18:742][134]LogShaderCompilers: Display: Total job queries 479, among them cache hits 4 (0.84%)
+[2023.05.27-16.40.18:742][134]LogShaderCompilers: Display: Tracking 443 distinct input hashes that result in 187 distinct outputs (42.21%)
+[2023.05.27-16.40.18:742][134]LogShaderCompilers: Display: RAM used: 1.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2023.05.27-16.40.18:742][134]LogShaderCompilers: Display: ================================================
+[2023.05.27-16.40.18:749][134]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module AnimGraph (560)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (558)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module SequenceRecorder (556)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module AutomationController (554)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module AutomationWorker (552)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module Voice (550)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module SteamVREditor (540)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module ToolMenus (539)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module OculusMR (536)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (534)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module TakeRecorder (533)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (530)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module TakesCore (528)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module OpenXRInput (526)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (522)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module WebMMedia (520)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (514)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (512)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (510)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module PlanarCut (508)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module CharacterAI (506)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module SessionServices (504)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (502)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module LiveCoding (500)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module LevelSequence (498)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (496)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module MovieScene (494)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (492)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module PortalServices (490)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module PortalRpc (488)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module MessagingRpc (486)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (484)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module AudioMixerCore (483)
+[2023.05.27-16.40.18:754][134]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (480)
+[2023.05.27-16.40.18:758][134]LogModuleManager: Shutting down and abandoning module ProfilerService (478)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module TaskGraph (476)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module OculusInput (474)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module TakeMovieScene (472)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module Synthesis (470)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (468)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module ChaosNiagara (466)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (464)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module GooglePAD (462)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module EditableMesh (460)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (458)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module CableComponent (456)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module AudioCapture (454)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (453)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module AssetTags (450)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (448)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (446)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module AppleImageUtils (444)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module AndroidPermission (442)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (440)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (438)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (436)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (434)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module MediaCompositing (432)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module ImgMedia (430)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module TemplateSequence (428)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (426)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (424)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (422)
+[2023.05.27-16.40.18:824][134]LogOpenImageDenoise: OIDN shutting down
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module MotoSynth (420)
+[2023.05.27-16.40.18:824][134]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (418)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module HotReload (417)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (414)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module MeshConversion (412)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module DynamicMesh (410)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (408)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module GeometricObjects (406)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (404)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (403)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (401)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (398)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (397)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module GeometryCache (394)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (393)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module BackChannel (390)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module AutomationUtils (388)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module UObjectPlugin (386)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (384)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (382)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module SourceControl (381)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (378)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (376)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (374)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (372)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (370)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (368)
+[2023.05.27-16.40.18:825][134]LogModuleManager: Shutting down and abandoning module LiveLink (366)
+[2023.05.27-16.40.19:570][134]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2023.05.27-16.40.19:570][134]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (358)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (356)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (352)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (350)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (348)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (346)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (344)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (342)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (340)
+[2023.05.27-16.40.19:571][134]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (338)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (336)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (334)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (332)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module MagicLeapController (330)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (328)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module MagicLeapAR (326)
+[2023.05.27-16.40.19:571][134]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2023.05.27-16.40.19:671][134]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (320)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module ActorSequence (318)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (316)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (314)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (312)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module Niagara (310)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module SignalProcessing (309)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module NiagaraEditor (307)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module ContentBrowser (306)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module CollectionManager (305)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (304)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module ContentBrowserData (301)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module NiagaraCore (296)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module FacialAnimation (294)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (292)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (290)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (286)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module AnimationSharing (284)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module GameplayCameras (282)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (280)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (278)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module Paper2D (276)
+[2023.05.27-16.40.19:771][134]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (274)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (272)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (270)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module PacketHandler (268)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (266)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (264)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module MediaAssets (262)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module Overlay (260)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module OverlayEditor (259)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module VREditor (256)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module StringTableEditor (254)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (252)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (250)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module FunctionalTesting (248)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (246)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (245)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module UMG (242)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module UMGEditor (241)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module Sequencer (240)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module MessageLog (237)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module SlateReflector (232)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module Slate (230)
+[2023.05.27-16.40.19:772][134]LogModuleManager: Shutting down and abandoning module SlateCore (228)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (226)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module UnrealEd (224)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module MRMesh (222)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module Messaging (220)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (218)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (216)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module XAudio2 (214)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module Networking (212)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module Core (210)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module MaterialEditor (208)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module MovieSceneTools (206)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module EditorStyle (205)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module KismetCompiler (202)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module MeshBuilder (200)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module MeshUtilities (198)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (197)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (196)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (195)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (193)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (191)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (189)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module MaterialBaking (185)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (180)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (178)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module DerivedDataCache (176)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module TargetPlatform (174)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (173)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (171)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (169)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (167)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (165)
+[2023.05.27-16.40.19:773][134]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (163)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (161)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (159)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (157)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (147)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (145)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (143)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (141)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (139)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (137)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (135)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module D3D11RHI (132)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2023.05.27-16.40.19:774][134]LogHMD: Freeing OpenVRDLLHandle.
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (108)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (106)
+[2023.05.27-16.40.19:774][134]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module MagicLeap (92)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2023.05.27-16.40.19:774][134]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2023.05.27-16.40.19:775][134]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2023.05.27-16.40.19:775][134]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2023.05.27-16.40.19:778][134]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2023.05.27-16.40.19:778][134]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2023.05.27-16.40.19:801][134]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2023.05.27-16.40.19:802][134]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module Media (71)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module DatasmithContent (62)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module MLSDK (60)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module ChaosCloth (54)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.05.27-16.40.19:803][134]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.05.27-16.40.19:804][134]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.05.27-16.40.19:804][134]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.05.27-16.40.19:804][134]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.05.27-16.40.19:804][134]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.05.27-16.40.19:804][134]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.05.27-16.40.19:804][134]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.05.27-16.40.19:804][134]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.05.27-16.40.19:804][134]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.05.27-16.40.19:804][134]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.05.27-16.40.19:804][134]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.05.27-16.40.19:804][134]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.05.27-16.40.19:804][134]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.05.27-16.40.19:804][134]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.05.27-16.40.19:804][134]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.05.27-16.40.19:814][134]LogD3D11RHI: Shutdown
+[2023.05.27-16.40.19:814][134]LogD3D11RHI: CleanupD3DDevice
+[2023.05.27-16.40.19:815][134]LogExit: Exiting.
+[2023.05.27-16.40.19:822][134]Log file closed, 05/28/23 00:40:19
